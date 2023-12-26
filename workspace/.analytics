@@ -1,0 +1,728 @@
+timestamp=[2023-11-21 18:51:30], mode=WORKBENCH_START, duration=0:00:07.778, duration_ms=7778, data={}
+timestamp=[2023-11-21 18:51:30], mode=WORKBENCH_UI_INIT, duration=0:00:00.705, duration_ms=705, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2023-11-21 18:51:52], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.059, duration_ms=59, data={}
+timestamp=[2023-11-21 18:52:32], mode=APP_CREATION, duration=0:00:05.943, duration_ms=5943, data={name=mb_zoom, project_type=sdk, os=standalone, processor=microblaze, runtime=cpp, platform=zoom_top, application_type=application}
+timestamp=[2023-11-21 18:54:18], mode=PLATFORM_GENERATION, duration=0:00:03.280, duration_ms=3280, data={name=zoom_top}
+timestamp=[2023-11-21 18:54:36], mode=PLATFORM_GENERATION, duration=0:00:09.348, duration_ms=9348, data={name=zoom_top}
+timestamp=[2023-11-21 18:54:40], mode=BUILD, duration=0:00:03.862, duration_ms=3862, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-21 19:15:34], mode=BUILD, duration=0:00:00.358, duration_ms=358, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-21 19:15:39], mode=PLATFORM_GENERATION, duration=0:00:04.471, duration_ms=4471, data={name=zoom_top}
+timestamp=[2023-11-21 19:15:57], mode=PLATFORM_GENERATION, duration=0:00:12.911, duration_ms=12911, data={name=zoom_top}
+timestamp=[2023-11-21 19:16:01], mode=BUILD, duration=0:00:03.202, duration_ms=3202, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-21 19:49:20], mode=BUILD, duration=0:00:00.361, duration_ms=361, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-21 19:49:25], mode=PLATFORM_GENERATION, duration=0:00:04.314, duration_ms=4314, data={name=zoom_top}
+timestamp=[2023-11-21 19:49:47], mode=PLATFORM_GENERATION, duration=0:00:14.872, duration_ms=14872, data={name=zoom_top}
+timestamp=[2023-11-21 19:49:51], mode=BUILD, duration=0:00:03.382, duration_ms=3382, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-24 15:32:07], mode=WORKBENCH_START, duration=0:00:39.869, duration_ms=39869, data={}
+timestamp=[2023-11-24 15:32:10], mode=WORKBENCH_UI_INIT, duration=0:00:02.653, duration_ms=2653, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_zoom,mb_zoom_system,zoom_top}
+timestamp=[2023-11-24 15:32:33], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.329, duration_ms=329, data={}
+timestamp=[2023-11-24 16:42:23], mode=BUILD, duration=0:00:02.447, duration_ms=2447, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-24 16:42:45], mode=PLATFORM_GENERATION, duration=0:00:21.786, duration_ms=21786, data={name=zoom_top}
+timestamp=[2023-11-24 16:43:30], mode=PLATFORM_GENERATION, duration=0:00:36.250, duration_ms=36250, data={name=zoom_top}
+timestamp=[2023-11-24 16:43:46], mode=BUILD, duration=0:00:14.383, duration_ms=14383, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-24 17:57:13], mode=BUILD, duration=0:00:00.979, duration_ms=979, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-24 17:57:24], mode=PLATFORM_GENERATION, duration=0:00:10.728, duration_ms=10728, data={name=zoom_top}
+timestamp=[2023-11-24 17:58:14], mode=PLATFORM_GENERATION, duration=0:00:31.980, duration_ms=31980, data={name=zoom_top}
+timestamp=[2023-11-24 17:58:25], mode=BUILD, duration=0:00:10.197, duration_ms=10197, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-24 22:19:54], mode=BUILD, duration=0:00:02.425, duration_ms=2425, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-24 22:20:24], mode=PLATFORM_GENERATION, duration=0:00:29.842, duration_ms=29842, data={name=zoom_top}
+timestamp=[2023-11-24 22:21:38], mode=PLATFORM_GENERATION, duration=0:01:08.386, duration_ms=68386, data={name=zoom_top}
+timestamp=[2023-11-24 22:21:52], mode=BUILD, duration=0:00:12.898, duration_ms=12898, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-26 23:36:44], mode=WORKBENCH_START, duration=0:00:11.548, duration_ms=11548, data={}
+timestamp=[2023-11-26 23:36:46], mode=WORKBENCH_UI_INIT, duration=0:00:01.247, duration_ms=1247, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_zoom,mb_zoom_system,zoom_top}
+timestamp=[2023-11-26 23:36:46], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.128, duration_ms=128, data={}
+timestamp=[2023-11-26 23:39:00], mode=BUILD, duration=0:00:00.923, duration_ms=923, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-26 23:39:07], mode=PLATFORM_GENERATION, duration=0:00:06.468, duration_ms=6468, data={name=zoom_top}
+timestamp=[2023-11-26 23:39:28], mode=PLATFORM_GENERATION, duration=0:00:13.787, duration_ms=13787, data={name=zoom_top}
+timestamp=[2023-11-26 23:39:32], mode=BUILD, duration=0:00:03.711, duration_ms=3711, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-26 23:55:50], mode=BUILD, duration=0:00:00.323, duration_ms=323, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-26 23:55:54], mode=PLATFORM_GENERATION, duration=0:00:04.515, duration_ms=4515, data={name=zoom_top}
+timestamp=[2023-11-26 23:56:19], mode=PLATFORM_GENERATION, duration=0:00:11.693, duration_ms=11693, data={name=zoom_top}
+timestamp=[2023-11-26 23:56:23], mode=BUILD, duration=0:00:03.067, duration_ms=3067, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-27 00:20:54], mode=BUILD, duration=0:00:00.349, duration_ms=349, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-27 00:20:59], mode=PLATFORM_GENERATION, duration=0:00:04.431, duration_ms=4431, data={name=zoom_top}
+timestamp=[2023-11-27 00:21:16], mode=PLATFORM_GENERATION, duration=0:00:11.309, duration_ms=11309, data={name=zoom_top}
+timestamp=[2023-11-27 00:21:19], mode=BUILD, duration=0:00:02.840, duration_ms=2840, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-27 00:40:03], mode=BUILD, duration=0:00:00.304, duration_ms=304, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-27 00:40:08], mode=PLATFORM_GENERATION, duration=0:00:04.509, duration_ms=4509, data={name=zoom_top}
+timestamp=[2023-11-27 00:40:23], mode=PLATFORM_GENERATION, duration=0:00:11.673, duration_ms=11673, data={name=zoom_top}
+timestamp=[2023-11-27 00:40:26], mode=BUILD, duration=0:00:02.814, duration_ms=2814, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-27 00:53:55], mode=BUILD, duration=0:00:00.297, duration_ms=297, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-27 00:54:00], mode=PLATFORM_GENERATION, duration=0:00:04.618, duration_ms=4618, data={name=zoom_top}
+timestamp=[2023-11-27 00:54:21], mode=PLATFORM_GENERATION, duration=0:00:11.788, duration_ms=11788, data={name=zoom_top}
+timestamp=[2023-11-27 00:54:25], mode=BUILD, duration=0:00:02.970, duration_ms=2970, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-27 09:46:58], mode=BUILD, duration=0:00:00.862, duration_ms=862, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-27 09:47:09], mode=PLATFORM_GENERATION, duration=0:00:11.505, duration_ms=11505, data={name=zoom_top}
+timestamp=[2023-11-27 09:47:29], mode=PLATFORM_GENERATION, duration=0:00:12.930, duration_ms=12930, data={name=zoom_top}
+timestamp=[2023-11-27 09:47:33], mode=BUILD, duration=0:00:03.314, duration_ms=3314, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-27 10:35:46], mode=BUILD, duration=0:00:00.372, duration_ms=372, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-27 10:35:51], mode=PLATFORM_GENERATION, duration=0:00:04.867, duration_ms=4867, data={name=zoom_top}
+timestamp=[2023-11-27 10:36:27], mode=PLATFORM_GENERATION, duration=0:00:12.096, duration_ms=12096, data={name=zoom_top}
+timestamp=[2023-11-27 10:36:30], mode=BUILD, duration=0:00:03.049, duration_ms=3049, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-27 10:36:31], mode=BUILD, duration=0:00:00.221, duration_ms=221, data={name=mb_zoom_system, configuration=Debug, clean_build=false}
+timestamp=[2023-11-27 10:55:33], mode=BUILD, duration=0:00:00.335, duration_ms=335, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-27 10:55:33], mode=BUILD, duration=0:00:00.227, duration_ms=227, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-27 10:55:37], mode=PLATFORM_GENERATION, duration=0:00:04.404, duration_ms=4404, data={name=zoom_top}
+timestamp=[2023-11-27 10:55:54], mode=PLATFORM_GENERATION, duration=0:00:12.783, duration_ms=12783, data={name=zoom_top}
+timestamp=[2023-11-27 10:55:57], mode=BUILD, duration=0:00:02.476, duration_ms=2476, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-27 11:05:18], mode=BUILD, duration=0:00:00.346, duration_ms=346, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-27 11:05:18], mode=BUILD, duration=0:00:00.235, duration_ms=235, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-27 11:05:22], mode=PLATFORM_GENERATION, duration=0:00:04.358, duration_ms=4358, data={name=zoom_top}
+timestamp=[2023-11-27 11:05:40], mode=PLATFORM_GENERATION, duration=0:00:13.237, duration_ms=13237, data={name=zoom_top}
+timestamp=[2023-11-27 11:05:43], mode=BUILD, duration=0:00:02.548, duration_ms=2548, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 11:15:48], mode=WORKBENCH_START, duration=0:00:10.874, duration_ms=10874, data={}
+timestamp=[2023-11-28 11:15:49], mode=WORKBENCH_UI_INIT, duration=0:00:01.045, duration_ms=1045, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_zoom,mb_zoom_system,zoom_top}
+timestamp=[2023-11-28 11:15:50], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.108, duration_ms=108, data={}
+timestamp=[2023-11-28 11:17:12], mode=BUILD, duration=0:00:01.031, duration_ms=1031, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 11:17:12], mode=BUILD, duration=0:00:00.222, duration_ms=222, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 11:17:17], mode=PLATFORM_GENERATION, duration=0:00:04.720, duration_ms=4720, data={name=zoom_top}
+timestamp=[2023-11-28 11:17:34], mode=PLATFORM_GENERATION, duration=0:00:11.280, duration_ms=11280, data={name=zoom_top}
+timestamp=[2023-11-28 11:17:38], mode=BUILD, duration=0:00:03.322, duration_ms=3322, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 11:19:06], mode=BUILD, duration=0:00:00.304, duration_ms=304, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 11:19:06], mode=BUILD, duration=0:00:00.242, duration_ms=242, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 11:19:10], mode=PLATFORM_GENERATION, duration=0:00:03.650, duration_ms=3650, data={name=zoom_top}
+timestamp=[2023-11-28 11:19:34], mode=PLATFORM_GENERATION, duration=0:00:07.523, duration_ms=7523, data={name=zoom_top}
+timestamp=[2023-11-28 11:19:37], mode=BUILD, duration=0:00:02.705, duration_ms=2705, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 11:20:40], mode=BUILD, duration=0:00:00.237, duration_ms=237, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 11:20:40], mode=BUILD, duration=0:00:00.222, duration_ms=222, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 11:20:44], mode=PLATFORM_GENERATION, duration=0:00:03.514, duration_ms=3514, data={name=zoom_top}
+timestamp=[2023-11-28 11:20:58], mode=PLATFORM_GENERATION, duration=0:00:10.372, duration_ms=10372, data={name=zoom_top}
+timestamp=[2023-11-28 11:21:01], mode=BUILD, duration=0:00:02.504, duration_ms=2504, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 11:23:03], mode=WORKBENCH_START, duration=0:00:08.215, duration_ms=8215, data={}
+timestamp=[2023-11-28 11:23:04], mode=WORKBENCH_UI_INIT, duration=0:00:00.771, duration_ms=771, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_zoom,mb_zoom_system,zoom_top}
+timestamp=[2023-11-28 11:23:04], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.057, duration_ms=57, data={}
+timestamp=[2023-11-28 11:24:15], mode=BUILD, duration=0:00:00.321, duration_ms=321, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 11:24:15], mode=BUILD, duration=0:00:00.234, duration_ms=234, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 11:24:19], mode=PLATFORM_GENERATION, duration=0:00:03.657, duration_ms=3657, data={name=zoom_top}
+timestamp=[2023-11-28 11:24:33], mode=PLATFORM_GENERATION, duration=0:00:09.786, duration_ms=9786, data={name=zoom_top}
+timestamp=[2023-11-28 11:24:36], mode=BUILD, duration=0:00:02.822, duration_ms=2822, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 11:32:43], mode=BUILD, duration=0:00:00.303, duration_ms=303, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 11:32:43], mode=BUILD, duration=0:00:00.228, duration_ms=228, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 11:32:46], mode=PLATFORM_GENERATION, duration=0:00:03.547, duration_ms=3547, data={name=zoom_top}
+timestamp=[2023-11-28 11:33:00], mode=PLATFORM_GENERATION, duration=0:00:10.082, duration_ms=10082, data={name=zoom_top}
+timestamp=[2023-11-28 11:33:03], mode=BUILD, duration=0:00:03.028, duration_ms=3028, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 13:23:04], mode=BUILD, duration=0:00:00.298, duration_ms=298, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 13:23:04], mode=BUILD, duration=0:00:00.211, duration_ms=211, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 13:23:09], mode=PLATFORM_GENERATION, duration=0:00:04.786, duration_ms=4786, data={name=zoom_top}
+timestamp=[2023-11-28 13:23:24], mode=PLATFORM_GENERATION, duration=0:00:11.414, duration_ms=11414, data={name=zoom_top}
+timestamp=[2023-11-28 13:23:27], mode=BUILD, duration=0:00:02.808, duration_ms=2808, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 13:33:28], mode=BUILD, duration=0:00:00.305, duration_ms=305, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 13:33:28], mode=BUILD, duration=0:00:00.222, duration_ms=222, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 13:33:33], mode=PLATFORM_GENERATION, duration=0:00:04.536, duration_ms=4536, data={name=zoom_top}
+timestamp=[2023-11-28 13:33:51], mode=PLATFORM_GENERATION, duration=0:00:11.296, duration_ms=11296, data={name=zoom_top}
+timestamp=[2023-11-28 13:33:54], mode=BUILD, duration=0:00:02.414, duration_ms=2414, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 13:42:24], mode=BUILD, duration=0:00:00.294, duration_ms=294, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 13:42:24], mode=BUILD, duration=0:00:00.207, duration_ms=207, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 13:42:29], mode=PLATFORM_GENERATION, duration=0:00:04.998, duration_ms=4998, data={name=zoom_top}
+timestamp=[2023-11-28 13:42:46], mode=PLATFORM_GENERATION, duration=0:00:11.947, duration_ms=11947, data={name=zoom_top}
+timestamp=[2023-11-28 13:42:49], mode=BUILD, duration=0:00:02.464, duration_ms=2464, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 13:53:19], mode=BUILD, duration=0:00:00.304, duration_ms=304, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 13:53:19], mode=BUILD, duration=0:00:00.239, duration_ms=239, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 13:53:23], mode=PLATFORM_GENERATION, duration=0:00:04.616, duration_ms=4616, data={name=zoom_top}
+timestamp=[2023-11-28 13:53:40], mode=PLATFORM_GENERATION, duration=0:00:11.514, duration_ms=11514, data={name=zoom_top}
+timestamp=[2023-11-28 13:53:43], mode=BUILD, duration=0:00:02.448, duration_ms=2448, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 14:05:16], mode=BUILD, duration=0:00:00.338, duration_ms=338, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 14:05:16], mode=BUILD, duration=0:00:00.224, duration_ms=224, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 14:05:21], mode=PLATFORM_GENERATION, duration=0:00:04.489, duration_ms=4489, data={name=zoom_top}
+timestamp=[2023-11-28 14:05:33], mode=PLATFORM_GENERATION, duration=0:00:08.773, duration_ms=8773, data={name=zoom_top}
+timestamp=[2023-11-28 14:05:36], mode=BUILD, duration=0:00:02.202, duration_ms=2202, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 14:19:56], mode=BUILD, duration=0:00:00.329, duration_ms=329, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 14:19:56], mode=BUILD, duration=0:00:00.242, duration_ms=242, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 14:20:01], mode=PLATFORM_GENERATION, duration=0:00:05.151, duration_ms=5151, data={name=zoom_top}
+timestamp=[2023-11-28 14:20:31], mode=PLATFORM_GENERATION, duration=0:00:15.704, duration_ms=15704, data={name=zoom_top}
+timestamp=[2023-11-28 14:20:35], mode=BUILD, duration=0:00:02.822, duration_ms=2822, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 14:39:41], mode=BUILD, duration=0:00:00.286, duration_ms=286, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 14:39:41], mode=BUILD, duration=0:00:00.238, duration_ms=238, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 14:39:46], mode=PLATFORM_GENERATION, duration=0:00:04.703, duration_ms=4703, data={name=zoom_top}
+timestamp=[2023-11-28 14:40:03], mode=PLATFORM_GENERATION, duration=0:00:12.213, duration_ms=12213, data={name=zoom_top}
+timestamp=[2023-11-28 14:40:05], mode=BUILD, duration=0:00:02.525, duration_ms=2525, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 14:53:54], mode=BUILD, duration=0:00:00.284, duration_ms=284, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 14:53:54], mode=BUILD, duration=0:00:00.194, duration_ms=194, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 14:54:00], mode=PLATFORM_GENERATION, duration=0:00:05.235, duration_ms=5235, data={name=zoom_top}
+timestamp=[2023-11-28 14:54:14], mode=PLATFORM_GENERATION, duration=0:00:11.261, duration_ms=11261, data={name=zoom_top}
+timestamp=[2023-11-28 14:54:17], mode=BUILD, duration=0:00:03.019, duration_ms=3019, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 15:04:14], mode=BUILD, duration=0:00:01.056, duration_ms=1056, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 15:04:14], mode=BUILD, duration=0:00:00.211, duration_ms=211, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 15:04:25], mode=PLATFORM_GENERATION, duration=0:00:11.355, duration_ms=11355, data={name=zoom_top}
+timestamp=[2023-11-28 15:04:56], mode=PLATFORM_GENERATION, duration=0:00:16.548, duration_ms=16548, data={name=zoom_top}
+timestamp=[2023-11-28 15:05:00], mode=BUILD, duration=0:00:03.087, duration_ms=3087, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 15:40:16], mode=BUILD, duration=0:00:00.317, duration_ms=317, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 15:40:17], mode=BUILD, duration=0:00:00.266, duration_ms=266, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 15:40:21], mode=PLATFORM_GENERATION, duration=0:00:04.670, duration_ms=4670, data={name=zoom_top}
+timestamp=[2023-11-28 15:40:42], mode=PLATFORM_GENERATION, duration=0:00:15.308, duration_ms=15308, data={name=zoom_top}
+timestamp=[2023-11-28 15:40:45], mode=BUILD, duration=0:00:02.647, duration_ms=2647, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 16:35:54], mode=BUILD, duration=0:00:00.415, duration_ms=415, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 16:35:54], mode=BUILD, duration=0:00:00.282, duration_ms=282, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 16:35:59], mode=PLATFORM_GENERATION, duration=0:00:04.907, duration_ms=4907, data={name=zoom_top}
+timestamp=[2023-11-28 16:36:19], mode=PLATFORM_GENERATION, duration=0:00:16.199, duration_ms=16199, data={name=zoom_top}
+timestamp=[2023-11-28 16:36:22], mode=BUILD, duration=0:00:03.224, duration_ms=3224, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 16:50:32], mode=BUILD, duration=0:00:00.500, duration_ms=500, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 16:50:33], mode=BUILD, duration=0:00:00.414, duration_ms=414, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 16:50:39], mode=PLATFORM_GENERATION, duration=0:00:06.014, duration_ms=6014, data={name=zoom_top}
+timestamp=[2023-11-28 16:51:01], mode=PLATFORM_GENERATION, duration=0:00:21.268, duration_ms=21268, data={name=zoom_top}
+timestamp=[2023-11-28 16:51:06], mode=BUILD, duration=0:00:03.598, duration_ms=3598, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 17:26:54], mode=BUILD, duration=0:00:00.449, duration_ms=449, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 17:26:54], mode=BUILD, duration=0:00:00.251, duration_ms=251, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 17:27:02], mode=PLATFORM_GENERATION, duration=0:00:07.294, duration_ms=7294, data={name=zoom_top}
+timestamp=[2023-11-28 17:27:52], mode=PLATFORM_GENERATION, duration=0:00:24.474, duration_ms=24474, data={name=zoom_top}
+timestamp=[2023-11-28 17:27:56], mode=BUILD, duration=0:00:03.914, duration_ms=3914, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 17:40:57], mode=BUILD, duration=0:00:00.505, duration_ms=505, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 17:40:58], mode=BUILD, duration=0:00:00.421, duration_ms=421, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 17:41:05], mode=PLATFORM_GENERATION, duration=0:00:06.666, duration_ms=6666, data={name=zoom_top}
+timestamp=[2023-11-28 17:41:29], mode=PLATFORM_GENERATION, duration=0:00:20.171, duration_ms=20171, data={name=zoom_top}
+timestamp=[2023-11-28 17:41:34], mode=BUILD, duration=0:00:04.093, duration_ms=4093, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 17:55:12], mode=BUILD, duration=0:00:00.558, duration_ms=558, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 17:55:13], mode=BUILD, duration=0:00:00.406, duration_ms=406, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 17:55:20], mode=PLATFORM_GENERATION, duration=0:00:07.298, duration_ms=7298, data={name=zoom_top}
+timestamp=[2023-11-28 17:55:51], mode=PLATFORM_GENERATION, duration=0:00:27.544, duration_ms=27544, data={name=zoom_top}
+timestamp=[2023-11-28 17:55:56], mode=BUILD, duration=0:00:04.249, duration_ms=4249, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 18:07:55], mode=BUILD, duration=0:00:00.416, duration_ms=416, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 18:07:55], mode=BUILD, duration=0:00:00.350, duration_ms=350, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 18:08:01], mode=PLATFORM_GENERATION, duration=0:00:05.935, duration_ms=5935, data={name=zoom_top}
+timestamp=[2023-11-28 18:08:39], mode=PLATFORM_GENERATION, duration=0:00:21.076, duration_ms=21076, data={name=zoom_top}
+timestamp=[2023-11-28 18:08:43], mode=BUILD, duration=0:00:04.239, duration_ms=4239, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 18:24:16], mode=WORKBENCH_START, duration=0:00:18.491, duration_ms=18491, data={}
+timestamp=[2023-11-28 18:24:17], mode=WORKBENCH_UI_INIT, duration=0:00:01.478, duration_ms=1478, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_zoom,mb_zoom_system,zoom_top}
+timestamp=[2023-11-28 18:24:18], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.157, duration_ms=157, data={}
+timestamp=[2023-11-28 18:25:15], mode=BUILD, duration=0:00:01.575, duration_ms=1575, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 18:25:16], mode=BUILD, duration=0:00:00.307, duration_ms=307, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 18:25:23], mode=PLATFORM_GENERATION, duration=0:00:06.774, duration_ms=6774, data={name=zoom_top}
+timestamp=[2023-11-28 18:25:45], mode=PLATFORM_GENERATION, duration=0:00:16.709, duration_ms=16709, data={name=zoom_top}
+timestamp=[2023-11-28 18:25:50], mode=BUILD, duration=0:00:04.977, duration_ms=4977, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 18:26:57], mode=BUILD, duration=0:00:00.333, duration_ms=333, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 18:26:57], mode=BUILD, duration=0:00:00.254, duration_ms=254, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 18:27:02], mode=PLATFORM_GENERATION, duration=0:00:05.487, duration_ms=5487, data={name=zoom_top}
+timestamp=[2023-11-28 18:27:20], mode=PLATFORM_GENERATION, duration=0:00:14.835, duration_ms=14835, data={name=zoom_top}
+timestamp=[2023-11-28 18:27:25], mode=BUILD, duration=0:00:03.959, duration_ms=3959, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 18:41:07], mode=BUILD, duration=0:00:00.473, duration_ms=473, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 18:41:08], mode=BUILD, duration=0:00:00.259, duration_ms=259, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 18:41:13], mode=PLATFORM_GENERATION, duration=0:00:05.056, duration_ms=5056, data={name=zoom_top}
+timestamp=[2023-11-28 18:41:32], mode=PLATFORM_GENERATION, duration=0:00:17.300, duration_ms=17300, data={name=zoom_top}
+timestamp=[2023-11-28 18:41:37], mode=BUILD, duration=0:00:04.258, duration_ms=4258, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 20:12:10], mode=BUILD, duration=0:00:00.299, duration_ms=299, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 20:12:10], mode=BUILD, duration=0:00:00.208, duration_ms=208, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 20:12:15], mode=PLATFORM_GENERATION, duration=0:00:05.222, duration_ms=5222, data={name=zoom_top}
+timestamp=[2023-11-28 20:12:33], mode=PLATFORM_GENERATION, duration=0:00:13.931, duration_ms=13931, data={name=zoom_top}
+timestamp=[2023-11-28 20:12:36], mode=BUILD, duration=0:00:03.136, duration_ms=3136, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 20:23:16], mode=BUILD, duration=0:00:00.293, duration_ms=293, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 20:23:16], mode=BUILD, duration=0:00:00.201, duration_ms=201, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 20:23:21], mode=PLATFORM_GENERATION, duration=0:00:04.439, duration_ms=4439, data={name=zoom_top}
+timestamp=[2023-11-28 20:23:44], mode=PLATFORM_GENERATION, duration=0:00:12.370, duration_ms=12370, data={name=zoom_top}
+timestamp=[2023-11-28 20:23:47], mode=BUILD, duration=0:00:02.699, duration_ms=2699, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 20:37:27], mode=BUILD, duration=0:00:00.414, duration_ms=414, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 20:37:27], mode=BUILD, duration=0:00:00.267, duration_ms=267, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 20:37:33], mode=PLATFORM_GENERATION, duration=0:00:05.960, duration_ms=5960, data={name=zoom_top}
+timestamp=[2023-11-28 20:38:21], mode=PLATFORM_GENERATION, duration=0:00:16.776, duration_ms=16776, data={name=zoom_top}
+timestamp=[2023-11-28 20:38:25], mode=BUILD, duration=0:00:03.473, duration_ms=3473, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 21:05:07], mode=WORKBENCH_START, duration=0:00:10.191, duration_ms=10191, data={}
+timestamp=[2023-11-28 21:05:08], mode=WORKBENCH_UI_INIT, duration=0:00:00.742, duration_ms=742, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_zoom,mb_zoom_system,zoom_top}
+timestamp=[2023-11-28 21:05:09], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.042, duration_ms=42, data={}
+timestamp=[2023-11-28 21:06:06], mode=BUILD, duration=0:00:00.395, duration_ms=395, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 21:06:06], mode=BUILD, duration=0:00:00.250, duration_ms=250, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 21:06:11], mode=PLATFORM_GENERATION, duration=0:00:04.444, duration_ms=4444, data={name=zoom_top}
+timestamp=[2023-11-28 21:06:29], mode=PLATFORM_GENERATION, duration=0:00:10.982, duration_ms=10982, data={name=zoom_top}
+timestamp=[2023-11-28 21:06:33], mode=BUILD, duration=0:00:02.961, duration_ms=2961, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 21:25:50], mode=BUILD, duration=0:00:00.306, duration_ms=306, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 21:25:51], mode=BUILD, duration=0:00:00.242, duration_ms=242, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 21:25:55], mode=PLATFORM_GENERATION, duration=0:00:04.689, duration_ms=4689, data={name=zoom_top}
+timestamp=[2023-11-28 21:27:08], mode=PLATFORM_GENERATION, duration=0:00:17.833, duration_ms=17833, data={name=zoom_top}
+timestamp=[2023-11-28 21:27:13], mode=BUILD, duration=0:00:04.353, duration_ms=4353, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 22:08:55], mode=BUILD, duration=0:00:00.370, duration_ms=370, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 22:08:55], mode=BUILD, duration=0:00:00.245, duration_ms=245, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 22:08:59], mode=PLATFORM_GENERATION, duration=0:00:03.964, duration_ms=3964, data={name=zoom_top}
+timestamp=[2023-11-28 22:09:16], mode=PLATFORM_GENERATION, duration=0:00:13.793, duration_ms=13793, data={name=zoom_top}
+timestamp=[2023-11-28 22:09:21], mode=BUILD, duration=0:00:03.890, duration_ms=3890, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 22:24:20], mode=BUILD, duration=0:00:00.307, duration_ms=307, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 22:24:20], mode=BUILD, duration=0:00:00.228, duration_ms=228, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 22:24:25], mode=PLATFORM_GENERATION, duration=0:00:04.544, duration_ms=4544, data={name=zoom_top}
+timestamp=[2023-11-28 22:24:59], mode=PLATFORM_GENERATION, duration=0:00:17.312, duration_ms=17312, data={name=zoom_top}
+timestamp=[2023-11-28 22:25:03], mode=BUILD, duration=0:00:03.796, duration_ms=3796, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 22:48:25], mode=BUILD, duration=0:00:00.314, duration_ms=314, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 22:48:25], mode=BUILD, duration=0:00:00.223, duration_ms=223, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 22:48:29], mode=PLATFORM_GENERATION, duration=0:00:04.553, duration_ms=4553, data={name=zoom_top}
+timestamp=[2023-11-28 22:48:52], mode=PLATFORM_GENERATION, duration=0:00:17.220, duration_ms=17220, data={name=zoom_top}
+timestamp=[2023-11-28 22:48:56], mode=BUILD, duration=0:00:03.873, duration_ms=3873, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 23:32:36], mode=BUILD, duration=0:00:00.927, duration_ms=927, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 23:32:37], mode=BUILD, duration=0:00:00.205, duration_ms=205, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 23:32:49], mode=PLATFORM_GENERATION, duration=0:00:12.013, duration_ms=12013, data={name=zoom_top}
+timestamp=[2023-11-28 23:33:29], mode=PLATFORM_GENERATION, duration=0:00:18.752, duration_ms=18752, data={name=zoom_top}
+timestamp=[2023-11-28 23:33:34], mode=BUILD, duration=0:00:03.942, duration_ms=3942, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-28 23:54:12], mode=BUILD, duration=0:00:00.460, duration_ms=460, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 23:54:12], mode=BUILD, duration=0:00:00.247, duration_ms=247, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 23:54:19], mode=PLATFORM_GENERATION, duration=0:00:06.050, duration_ms=6050, data={name=zoom_top}
+timestamp=[2023-11-28 23:55:10], mode=BUILD, duration=0:00:00.337, duration_ms=337, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 23:55:10], mode=BUILD, duration=0:00:00.256, duration_ms=256, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-28 23:55:15], mode=PLATFORM_GENERATION, duration=0:00:04.767, duration_ms=4767, data={name=zoom_top}
+timestamp=[2023-11-28 23:55:49], mode=PLATFORM_GENERATION, duration=0:00:21.549, duration_ms=21549, data={name=zoom_top}
+timestamp=[2023-11-28 23:55:54], mode=BUILD, duration=0:00:04.251, duration_ms=4251, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-29 18:00:13], mode=WORKBENCH_START, duration=0:00:13.060, duration_ms=13060, data={}
+timestamp=[2023-11-29 18:00:14], mode=WORKBENCH_UI_INIT, duration=0:00:01.662, duration_ms=1662, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_zoom,mb_zoom_system,zoom_top}
+timestamp=[2023-11-29 18:00:16], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.213, duration_ms=213, data={}
+timestamp=[2023-11-29 18:00:57], mode=BUILD, duration=0:00:00.901, duration_ms=901, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 18:00:57], mode=BUILD, duration=0:00:00.225, duration_ms=225, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 18:01:01], mode=PLATFORM_GENERATION, duration=0:00:04.431, duration_ms=4431, data={name=zoom_top}
+timestamp=[2023-11-29 18:01:24], mode=PLATFORM_GENERATION, duration=0:00:13.500, duration_ms=13500, data={name=zoom_top}
+timestamp=[2023-11-29 18:01:30], mode=BUILD, duration=0:00:04.686, duration_ms=4686, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-29 18:26:15], mode=BUILD, duration=0:00:00.929, duration_ms=929, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 18:26:15], mode=BUILD, duration=0:00:00.235, duration_ms=235, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 18:26:24], mode=PLATFORM_GENERATION, duration=0:00:08.458, duration_ms=8458, data={name=zoom_top}
+timestamp=[2023-11-29 18:26:38], mode=PLATFORM_GENERATION, duration=0:00:10.847, duration_ms=10847, data={name=zoom_top}
+timestamp=[2023-11-29 18:26:42], mode=BUILD, duration=0:00:03.460, duration_ms=3460, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-29 19:03:24], mode=BUILD, duration=0:00:00.275, duration_ms=275, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 19:03:25], mode=BUILD, duration=0:00:00.208, duration_ms=208, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 19:03:28], mode=PLATFORM_GENERATION, duration=0:00:03.544, duration_ms=3544, data={name=zoom_top}
+timestamp=[2023-11-29 19:03:52], mode=PLATFORM_GENERATION, duration=0:00:09.708, duration_ms=9708, data={name=zoom_top}
+timestamp=[2023-11-29 19:03:55], mode=BUILD, duration=0:00:02.573, duration_ms=2573, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-29 19:47:46], mode=BUILD, duration=0:00:00.279, duration_ms=279, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 19:47:46], mode=BUILD, duration=0:00:00.211, duration_ms=211, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 19:47:50], mode=PLATFORM_GENERATION, duration=0:00:04.047, duration_ms=4047, data={name=zoom_top}
+timestamp=[2023-11-29 19:48:24], mode=PLATFORM_GENERATION, duration=0:00:10.739, duration_ms=10739, data={name=zoom_top}
+timestamp=[2023-11-29 19:48:27], mode=BUILD, duration=0:00:02.723, duration_ms=2723, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-29 19:59:08], mode=BUILD, duration=0:00:00.284, duration_ms=284, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 19:59:08], mode=BUILD, duration=0:00:00.195, duration_ms=195, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 19:59:12], mode=PLATFORM_GENERATION, duration=0:00:04.149, duration_ms=4149, data={name=zoom_top}
+timestamp=[2023-11-29 19:59:27], mode=PLATFORM_GENERATION, duration=0:00:11.555, duration_ms=11555, data={name=zoom_top}
+timestamp=[2023-11-29 19:59:30], mode=BUILD, duration=0:00:02.539, duration_ms=2539, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-29 20:14:47], mode=BUILD, duration=0:00:00.455, duration_ms=455, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 20:14:48], mode=BUILD, duration=0:00:00.371, duration_ms=371, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 20:14:54], mode=PLATFORM_GENERATION, duration=0:00:06.559, duration_ms=6559, data={name=zoom_top}
+timestamp=[2023-11-29 20:15:20], mode=PLATFORM_GENERATION, duration=0:00:21.434, duration_ms=21434, data={name=zoom_top}
+timestamp=[2023-11-29 20:15:24], mode=BUILD, duration=0:00:03.749, duration_ms=3749, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-29 20:35:57], mode=BUILD, duration=0:00:00.327, duration_ms=327, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 20:35:58], mode=BUILD, duration=0:00:00.235, duration_ms=235, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 20:36:02], mode=PLATFORM_GENERATION, duration=0:00:04.476, duration_ms=4476, data={name=zoom_top}
+timestamp=[2023-11-29 20:36:21], mode=PLATFORM_GENERATION, duration=0:00:16.186, duration_ms=16186, data={name=zoom_top}
+timestamp=[2023-11-29 20:36:25], mode=BUILD, duration=0:00:03.379, duration_ms=3379, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-29 20:54:17], mode=BUILD, duration=0:00:00.429, duration_ms=429, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 20:54:18], mode=BUILD, duration=0:00:00.339, duration_ms=339, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 20:54:24], mode=PLATFORM_GENERATION, duration=0:00:06.272, duration_ms=6272, data={name=zoom_top}
+timestamp=[2023-11-29 20:54:44], mode=PLATFORM_GENERATION, duration=0:00:16.441, duration_ms=16441, data={name=zoom_top}
+timestamp=[2023-11-29 20:54:48], mode=BUILD, duration=0:00:03.203, duration_ms=3203, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-29 21:16:09], mode=BUILD, duration=0:00:00.328, duration_ms=328, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 21:16:09], mode=BUILD, duration=0:00:00.239, duration_ms=239, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 21:16:14], mode=PLATFORM_GENERATION, duration=0:00:04.633, duration_ms=4633, data={name=zoom_top}
+timestamp=[2023-11-29 21:16:39], mode=PLATFORM_GENERATION, duration=0:00:16.612, duration_ms=16612, data={name=zoom_top}
+timestamp=[2023-11-29 21:16:43], mode=BUILD, duration=0:00:03.014, duration_ms=3014, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-29 21:36:19], mode=BUILD, duration=0:00:00.326, duration_ms=326, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 21:36:20], mode=BUILD, duration=0:00:00.261, duration_ms=261, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 21:36:24], mode=PLATFORM_GENERATION, duration=0:00:04.006, duration_ms=4006, data={name=zoom_top}
+timestamp=[2023-11-29 21:36:47], mode=PLATFORM_GENERATION, duration=0:00:20.071, duration_ms=20071, data={name=zoom_top}
+timestamp=[2023-11-29 21:36:51], mode=BUILD, duration=0:00:03.489, duration_ms=3489, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-29 21:49:08], mode=BUILD, duration=0:00:00.419, duration_ms=419, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 21:49:09], mode=BUILD, duration=0:00:00.342, duration_ms=342, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 21:49:13], mode=PLATFORM_GENERATION, duration=0:00:04.506, duration_ms=4506, data={name=zoom_top}
+timestamp=[2023-11-29 21:49:37], mode=PLATFORM_GENERATION, duration=0:00:16.638, duration_ms=16638, data={name=zoom_top}
+timestamp=[2023-11-29 21:49:41], mode=BUILD, duration=0:00:02.843, duration_ms=2843, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-29 23:04:17], mode=BUILD, duration=0:00:00.292, duration_ms=292, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 23:04:18], mode=BUILD, duration=0:00:00.206, duration_ms=206, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 23:04:22], mode=PLATFORM_GENERATION, duration=0:00:04.240, duration_ms=4240, data={name=zoom_top}
+timestamp=[2023-11-29 23:04:44], mode=PLATFORM_GENERATION, duration=0:00:18.346, duration_ms=18346, data={name=zoom_top}
+timestamp=[2023-11-29 23:04:48], mode=BUILD, duration=0:00:03.736, duration_ms=3736, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-29 23:19:39], mode=BUILD, duration=0:00:00.412, duration_ms=412, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 23:19:39], mode=BUILD, duration=0:00:00.329, duration_ms=329, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-29 23:19:44], mode=PLATFORM_GENERATION, duration=0:00:05.114, duration_ms=5114, data={name=zoom_top}
+timestamp=[2023-11-29 23:20:12], mode=PLATFORM_GENERATION, duration=0:00:18.465, duration_ms=18465, data={name=zoom_top}
+timestamp=[2023-11-29 23:20:15], mode=BUILD, duration=0:00:03.348, duration_ms=3348, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-30 00:01:05], mode=BUILD, duration=0:00:00.315, duration_ms=315, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-30 00:01:05], mode=BUILD, duration=0:00:00.237, duration_ms=237, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-30 00:01:09], mode=PLATFORM_GENERATION, duration=0:00:03.951, duration_ms=3951, data={name=zoom_top}
+timestamp=[2023-11-30 00:01:29], mode=PLATFORM_GENERATION, duration=0:00:16.795, duration_ms=16795, data={name=zoom_top}
+timestamp=[2023-11-30 00:01:33], mode=BUILD, duration=0:00:03.280, duration_ms=3280, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-30 01:21:51], mode=BUILD, duration=0:00:00.855, duration_ms=855, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-30 01:21:51], mode=BUILD, duration=0:00:00.227, duration_ms=227, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-30 01:22:03], mode=PLATFORM_GENERATION, duration=0:00:11.738, duration_ms=11738, data={name=zoom_top}
+timestamp=[2023-11-30 01:22:33], mode=PLATFORM_GENERATION, duration=0:00:16.717, duration_ms=16717, data={name=zoom_top}
+timestamp=[2023-11-30 01:22:37], mode=BUILD, duration=0:00:03.682, duration_ms=3682, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-30 02:05:45], mode=PLATFORM_GENERATION, duration=0:00:17.341, duration_ms=17341, data={name=zoom_top}
+timestamp=[2023-11-30 02:05:48], mode=BUILD, duration=0:00:02.334, duration_ms=2334, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-30 02:18:55], mode=BUILD, duration=0:00:00.911, duration_ms=911, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-30 02:18:55], mode=BUILD, duration=0:00:00.283, duration_ms=283, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-30 02:19:08], mode=PLATFORM_GENERATION, duration=0:00:12.436, duration_ms=12436, data={name=zoom_top}
+timestamp=[2023-11-30 02:19:29], mode=PLATFORM_GENERATION, duration=0:00:16.079, duration_ms=16079, data={name=zoom_top}
+timestamp=[2023-11-30 02:19:33], mode=BUILD, duration=0:00:03.765, duration_ms=3765, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-30 03:17:28], mode=BUILD, duration=0:00:00.400, duration_ms=400, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-30 03:17:29], mode=BUILD, duration=0:00:00.300, duration_ms=300, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-30 03:17:34], mode=PLATFORM_GENERATION, duration=0:00:04.937, duration_ms=4937, data={name=zoom_top}
+timestamp=[2023-11-30 03:17:54], mode=PLATFORM_GENERATION, duration=0:00:16.774, duration_ms=16774, data={name=zoom_top}
+timestamp=[2023-11-30 03:17:57], mode=BUILD, duration=0:00:02.725, duration_ms=2725, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-30 03:30:44], mode=BUILD, duration=0:00:00.258, duration_ms=258, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-30 03:30:44], mode=BUILD, duration=0:00:00.214, duration_ms=214, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-30 03:30:49], mode=PLATFORM_GENERATION, duration=0:00:04.364, duration_ms=4364, data={name=zoom_top}
+timestamp=[2023-11-30 03:31:04], mode=PLATFORM_GENERATION, duration=0:00:15.629, duration_ms=15629, data={name=zoom_top}
+timestamp=[2023-11-30 03:31:08], mode=BUILD, duration=0:00:03.004, duration_ms=3004, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-30 03:46:36], mode=BUILD, duration=0:00:00.277, duration_ms=277, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-30 03:46:36], mode=BUILD, duration=0:00:00.226, duration_ms=226, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-30 03:46:41], mode=PLATFORM_GENERATION, duration=0:00:04.119, duration_ms=4119, data={name=zoom_top}
+timestamp=[2023-11-30 03:46:57], mode=PLATFORM_GENERATION, duration=0:00:16.590, duration_ms=16590, data={name=zoom_top}
+timestamp=[2023-11-30 03:47:01], mode=BUILD, duration=0:00:02.824, duration_ms=2824, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-11-30 04:32:21], mode=BUILD, duration=0:00:00.308, duration_ms=308, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-11-30 04:32:21], mode=BUILD, duration=0:00:00.253, duration_ms=253, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-11-30 04:32:27], mode=PLATFORM_GENERATION, duration=0:00:05.557, duration_ms=5557, data={name=zoom_top}
+timestamp=[2023-11-30 04:32:44], mode=PLATFORM_GENERATION, duration=0:00:17.105, duration_ms=17105, data={name=zoom_top}
+timestamp=[2023-11-30 04:32:47], mode=BUILD, duration=0:00:02.830, duration_ms=2830, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-01 20:15:20], mode=WORKBENCH_START, duration=0:00:14.494, duration_ms=14494, data={}
+timestamp=[2023-12-01 20:15:21], mode=WORKBENCH_UI_INIT, duration=0:00:01.507, duration_ms=1507, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_zoom,mb_zoom_system,zoom_top}
+timestamp=[2023-12-01 20:15:22], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.165, duration_ms=165, data={}
+timestamp=[2023-12-01 20:15:49], mode=BUILD, duration=0:00:01.572, duration_ms=1572, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-01 20:15:49], mode=BUILD, duration=0:00:00.315, duration_ms=315, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-01 20:15:56], mode=PLATFORM_GENERATION, duration=0:00:07.242, duration_ms=7242, data={name=zoom_top}
+timestamp=[2023-12-01 20:16:15], mode=PLATFORM_GENERATION, duration=0:00:17.729, duration_ms=17729, data={name=zoom_top}
+timestamp=[2023-12-01 20:16:20], mode=BUILD, duration=0:00:04.863, duration_ms=4863, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-01 21:14:36], mode=BUILD, duration=0:00:01.397, duration_ms=1397, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-01 21:14:37], mode=BUILD, duration=0:00:00.285, duration_ms=285, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-01 21:14:43], mode=PLATFORM_GENERATION, duration=0:00:06.020, duration_ms=6020, data={name=zoom_top}
+timestamp=[2023-12-01 21:15:00], mode=PLATFORM_GENERATION, duration=0:00:16.848, duration_ms=16848, data={name=zoom_top}
+timestamp=[2023-12-01 21:15:05], mode=BUILD, duration=0:00:04.399, duration_ms=4399, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-01 21:47:14], mode=BUILD, duration=0:00:00.463, duration_ms=463, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-01 21:47:14], mode=BUILD, duration=0:00:00.350, duration_ms=350, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-01 21:47:20], mode=PLATFORM_GENERATION, duration=0:00:06.047, duration_ms=6047, data={name=zoom_top}
+timestamp=[2023-12-01 21:47:41], mode=PLATFORM_GENERATION, duration=0:00:20.389, duration_ms=20389, data={name=zoom_top}
+timestamp=[2023-12-01 21:47:46], mode=BUILD, duration=0:00:04.295, duration_ms=4295, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-01 21:57:47], mode=BUILD, duration=0:00:00.446, duration_ms=446, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-01 21:57:47], mode=BUILD, duration=0:00:00.320, duration_ms=320, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-01 21:57:53], mode=PLATFORM_GENERATION, duration=0:00:05.857, duration_ms=5857, data={name=zoom_top}
+timestamp=[2023-12-01 21:58:09], mode=PLATFORM_GENERATION, duration=0:00:15.328, duration_ms=15328, data={name=zoom_top}
+timestamp=[2023-12-01 21:58:13], mode=BUILD, duration=0:00:03.730, duration_ms=3730, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-01 22:59:56], mode=BUILD, duration=0:00:01.042, duration_ms=1042, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-01 22:59:56], mode=BUILD, duration=0:00:00.247, duration_ms=247, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-01 23:00:06], mode=PLATFORM_GENERATION, duration=0:00:10.309, duration_ms=10309, data={name=zoom_top}
+timestamp=[2023-12-01 23:00:20], mode=PLATFORM_GENERATION, duration=0:00:13.484, duration_ms=13484, data={name=zoom_top}
+timestamp=[2023-12-01 23:00:23], mode=BUILD, duration=0:00:03.101, duration_ms=3101, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-01 23:16:45], mode=BUILD, duration=0:00:00.982, duration_ms=982, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-01 23:16:45], mode=BUILD, duration=0:00:00.255, duration_ms=255, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-01 23:16:55], mode=PLATFORM_GENERATION, duration=0:00:09.709, duration_ms=9709, data={name=zoom_top}
+timestamp=[2023-12-01 23:17:08], mode=PLATFORM_GENERATION, duration=0:00:13.504, duration_ms=13504, data={name=zoom_top}
+timestamp=[2023-12-01 23:17:12], mode=BUILD, duration=0:00:03.123, duration_ms=3123, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-01 23:30:45], mode=BUILD, duration=0:00:00.299, duration_ms=299, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-01 23:30:46], mode=BUILD, duration=0:00:00.220, duration_ms=220, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-01 23:30:51], mode=PLATFORM_GENERATION, duration=0:00:05.072, duration_ms=5072, data={name=zoom_top}
+timestamp=[2023-12-01 23:31:06], mode=PLATFORM_GENERATION, duration=0:00:14.786, duration_ms=14786, data={name=zoom_top}
+timestamp=[2023-12-01 23:31:09], mode=BUILD, duration=0:00:02.478, duration_ms=2478, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-01 23:38:21], mode=BUILD, duration=0:00:00.299, duration_ms=299, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-01 23:38:21], mode=BUILD, duration=0:00:00.222, duration_ms=222, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-01 23:38:26], mode=PLATFORM_GENERATION, duration=0:00:04.371, duration_ms=4371, data={name=zoom_top}
+timestamp=[2023-12-01 23:38:39], mode=PLATFORM_GENERATION, duration=0:00:12.930, duration_ms=12930, data={name=zoom_top}
+timestamp=[2023-12-01 23:38:43], mode=BUILD, duration=0:00:03.076, duration_ms=3076, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-02 02:10:05], mode=BUILD, duration=0:00:00.752, duration_ms=752, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-02 02:10:05], mode=BUILD, duration=0:00:00.559, duration_ms=559, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-02 02:10:13], mode=PLATFORM_GENERATION, duration=0:00:07.790, duration_ms=7790, data={name=zoom_top}
+timestamp=[2023-12-02 02:10:40], mode=PLATFORM_GENERATION, duration=0:00:26.216, duration_ms=26216, data={name=zoom_top}
+timestamp=[2023-12-02 02:10:45], mode=BUILD, duration=0:00:04.434, duration_ms=4434, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-03 23:32:23], mode=WORKBENCH_START, duration=0:00:11.086, duration_ms=11086, data={}
+timestamp=[2023-12-03 23:32:24], mode=WORKBENCH_UI_INIT, duration=0:00:01.088, duration_ms=1088, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_zoom,mb_zoom_system,zoom_top}
+timestamp=[2023-12-03 23:32:25], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.140, duration_ms=140, data={}
+timestamp=[2023-12-03 23:32:44], mode=BUILD, duration=0:00:01.055, duration_ms=1055, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-03 23:32:45], mode=BUILD, duration=0:00:00.218, duration_ms=218, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-03 23:32:49], mode=PLATFORM_GENERATION, duration=0:00:04.471, duration_ms=4471, data={name=zoom_top}
+timestamp=[2023-12-03 23:33:02], mode=PLATFORM_GENERATION, duration=0:00:12.037, duration_ms=12037, data={name=zoom_top}
+timestamp=[2023-12-03 23:33:06], mode=BUILD, duration=0:00:03.562, duration_ms=3562, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 00:51:28], mode=BUILD, duration=0:00:00.280, duration_ms=280, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 00:51:28], mode=BUILD, duration=0:00:00.210, duration_ms=210, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 00:51:32], mode=PLATFORM_GENERATION, duration=0:00:03.579, duration_ms=3579, data={name=zoom_top}
+timestamp=[2023-12-04 00:51:43], mode=PLATFORM_GENERATION, duration=0:00:11.089, duration_ms=11089, data={name=zoom_top}
+timestamp=[2023-12-04 00:51:46], mode=BUILD, duration=0:00:03.005, duration_ms=3005, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 01:14:31], mode=BUILD, duration=0:00:00.285, duration_ms=285, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 01:14:31], mode=BUILD, duration=0:00:00.206, duration_ms=206, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 01:14:35], mode=PLATFORM_GENERATION, duration=0:00:03.607, duration_ms=3607, data={name=zoom_top}
+timestamp=[2023-12-04 01:14:45], mode=PLATFORM_GENERATION, duration=0:00:09.991, duration_ms=9991, data={name=zoom_top}
+timestamp=[2023-12-04 01:14:48], mode=BUILD, duration=0:00:02.613, duration_ms=2613, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 01:32:15], mode=BUILD, duration=0:00:00.282, duration_ms=282, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 01:32:16], mode=BUILD, duration=0:00:00.229, duration_ms=229, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 01:32:19], mode=PLATFORM_GENERATION, duration=0:00:03.727, duration_ms=3727, data={name=zoom_top}
+timestamp=[2023-12-04 01:32:30], mode=PLATFORM_GENERATION, duration=0:00:10.172, duration_ms=10172, data={name=zoom_top}
+timestamp=[2023-12-04 01:32:33], mode=BUILD, duration=0:00:02.918, duration_ms=2918, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 02:02:46], mode=BUILD, duration=0:00:00.283, duration_ms=283, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 02:02:46], mode=BUILD, duration=0:00:00.209, duration_ms=209, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 02:02:49], mode=PLATFORM_GENERATION, duration=0:00:03.715, duration_ms=3715, data={name=zoom_top}
+timestamp=[2023-12-04 02:03:00], mode=PLATFORM_GENERATION, duration=0:00:10.363, duration_ms=10363, data={name=zoom_top}
+timestamp=[2023-12-04 02:03:03], mode=BUILD, duration=0:00:02.429, duration_ms=2429, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 02:14:07], mode=BUILD, duration=0:00:00.314, duration_ms=314, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 02:14:07], mode=BUILD, duration=0:00:00.238, duration_ms=238, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 02:14:12], mode=PLATFORM_GENERATION, duration=0:00:04.583, duration_ms=4583, data={name=zoom_top}
+timestamp=[2023-12-04 02:14:26], mode=PLATFORM_GENERATION, duration=0:00:14.303, duration_ms=14303, data={name=zoom_top}
+timestamp=[2023-12-04 02:14:29], mode=BUILD, duration=0:00:02.719, duration_ms=2719, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 17:44:02], mode=BUILD, duration=0:00:00.928, duration_ms=928, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 17:44:02], mode=BUILD, duration=0:00:00.207, duration_ms=207, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 17:44:10], mode=PLATFORM_GENERATION, duration=0:00:07.558, duration_ms=7558, data={name=zoom_top}
+timestamp=[2023-12-04 17:44:21], mode=PLATFORM_GENERATION, duration=0:00:11.548, duration_ms=11548, data={name=zoom_top}
+timestamp=[2023-12-04 17:44:25], mode=BUILD, duration=0:00:02.894, duration_ms=2894, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 17:58:56], mode=BUILD, duration=0:00:00.477, duration_ms=477, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 17:58:56], mode=BUILD, duration=0:00:00.238, duration_ms=238, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 17:59:01], mode=PLATFORM_GENERATION, duration=0:00:04.829, duration_ms=4829, data={name=zoom_top}
+timestamp=[2023-12-04 17:59:12], mode=PLATFORM_GENERATION, duration=0:00:10.564, duration_ms=10564, data={name=zoom_top}
+timestamp=[2023-12-04 17:59:15], mode=BUILD, duration=0:00:02.503, duration_ms=2503, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 19:28:59], mode=WORKBENCH_START, duration=0:00:18.585, duration_ms=18585, data={}
+timestamp=[2023-12-04 19:29:00], mode=WORKBENCH_UI_INIT, duration=0:00:01.527, duration_ms=1527, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_zoom,mb_zoom_system,zoom_top}
+timestamp=[2023-12-04 19:29:01], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.299, duration_ms=299, data={}
+timestamp=[2023-12-04 20:26:33], mode=BUILD, duration=0:00:01.753, duration_ms=1753, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 20:26:33], mode=BUILD, duration=0:00:00.354, duration_ms=354, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 20:26:41], mode=PLATFORM_GENERATION, duration=0:00:07.386, duration_ms=7386, data={name=zoom_top}
+timestamp=[2023-12-04 20:26:59], mode=PLATFORM_GENERATION, duration=0:00:17.596, duration_ms=17596, data={name=zoom_top}
+timestamp=[2023-12-04 20:27:04], mode=BUILD, duration=0:00:05.086, duration_ms=5086, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 22:06:55], mode=BUILD, duration=0:00:00.826, duration_ms=826, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 22:06:55], mode=BUILD, duration=0:00:00.208, duration_ms=208, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 22:07:03], mode=PLATFORM_GENERATION, duration=0:00:08.137, duration_ms=8137, data={name=zoom_top}
+timestamp=[2023-12-04 22:07:15], mode=PLATFORM_GENERATION, duration=0:00:11.679, duration_ms=11679, data={name=zoom_top}
+timestamp=[2023-12-04 22:07:18], mode=BUILD, duration=0:00:02.794, duration_ms=2794, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 23:05:57], mode=BUILD, duration=0:00:01.107, duration_ms=1107, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 23:05:57], mode=BUILD, duration=0:00:00.240, duration_ms=240, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 23:06:08], mode=PLATFORM_GENERATION, duration=0:00:10.941, duration_ms=10941, data={name=zoom_top}
+timestamp=[2023-12-04 23:06:22], mode=PLATFORM_GENERATION, duration=0:00:13.758, duration_ms=13758, data={name=zoom_top}
+timestamp=[2023-12-04 23:06:26], mode=BUILD, duration=0:00:03.437, duration_ms=3437, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-04 23:48:38], mode=BUILD, duration=0:00:00.326, duration_ms=326, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 23:48:39], mode=BUILD, duration=0:00:00.232, duration_ms=232, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-04 23:48:42], mode=PLATFORM_GENERATION, duration=0:00:03.864, duration_ms=3864, data={name=zoom_top}
+timestamp=[2023-12-04 23:48:56], mode=PLATFORM_GENERATION, duration=0:00:13.613, duration_ms=13613, data={name=zoom_top}
+timestamp=[2023-12-04 23:49:00], mode=BUILD, duration=0:00:02.868, duration_ms=2868, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-05 00:07:15], mode=BUILD, duration=0:00:00.338, duration_ms=338, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-05 00:07:16], mode=BUILD, duration=0:00:00.253, duration_ms=253, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-05 00:07:20], mode=PLATFORM_GENERATION, duration=0:00:04.428, duration_ms=4428, data={name=zoom_top}
+timestamp=[2023-12-05 00:07:37], mode=PLATFORM_GENERATION, duration=0:00:16.328, duration_ms=16328, data={name=zoom_top}
+timestamp=[2023-12-05 00:07:40], mode=BUILD, duration=0:00:02.900, duration_ms=2900, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-05 00:52:59], mode=BUILD, duration=0:00:00.338, duration_ms=338, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-05 00:52:59], mode=BUILD, duration=0:00:00.251, duration_ms=251, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-05 00:53:04], mode=PLATFORM_GENERATION, duration=0:00:04.478, duration_ms=4478, data={name=zoom_top}
+timestamp=[2023-12-05 00:53:16], mode=PLATFORM_GENERATION, duration=0:00:12.006, duration_ms=12006, data={name=zoom_top}
+timestamp=[2023-12-05 00:53:19], mode=BUILD, duration=0:00:02.661, duration_ms=2661, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-05 15:06:20], mode=WORKBENCH_START, duration=0:00:11.183, duration_ms=11183, data={}
+timestamp=[2023-12-05 15:06:21], mode=WORKBENCH_UI_INIT, duration=0:00:00.938, duration_ms=938, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_zoom,mb_zoom_system,zoom_top}
+timestamp=[2023-12-05 15:06:22], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.144, duration_ms=144, data={}
+timestamp=[2023-12-05 15:07:09], mode=BUILD, duration=0:00:00.932, duration_ms=932, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-05 15:07:10], mode=BUILD, duration=0:00:00.252, duration_ms=252, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-05 15:07:14], mode=PLATFORM_GENERATION, duration=0:00:04.813, duration_ms=4813, data={name=zoom_top}
+timestamp=[2023-12-05 15:07:27], mode=PLATFORM_GENERATION, duration=0:00:12.544, duration_ms=12544, data={name=zoom_top}
+timestamp=[2023-12-05 15:07:31], mode=BUILD, duration=0:00:03.518, duration_ms=3518, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-06 20:24:47], mode=WORKBENCH_START, duration=0:00:14.672, duration_ms=14672, data={}
+timestamp=[2023-12-06 20:24:49], mode=WORKBENCH_UI_INIT, duration=0:00:01.335, duration_ms=1335, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_zoom,mb_zoom_system,zoom_top}
+timestamp=[2023-12-06 20:24:50], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.172, duration_ms=172, data={}
+timestamp=[2023-12-06 20:59:36], mode=BUILD, duration=0:00:01.641, duration_ms=1641, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-06 20:59:37], mode=BUILD, duration=0:00:00.358, duration_ms=358, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-06 20:59:45], mode=PLATFORM_GENERATION, duration=0:00:07.966, duration_ms=7966, data={name=zoom_top}
+timestamp=[2023-12-06 21:00:04], mode=PLATFORM_GENERATION, duration=0:00:18.390, duration_ms=18390, data={name=zoom_top}
+timestamp=[2023-12-06 21:00:09], mode=BUILD, duration=0:00:04.748, duration_ms=4748, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-06 21:39:38], mode=BUILD, duration=0:00:00.484, duration_ms=484, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-06 21:39:39], mode=BUILD, duration=0:00:00.304, duration_ms=304, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-06 21:39:45], mode=PLATFORM_GENERATION, duration=0:00:06.058, duration_ms=6058, data={name=zoom_top}
+timestamp=[2023-12-06 21:40:04], mode=PLATFORM_GENERATION, duration=0:00:18.709, duration_ms=18709, data={name=zoom_top}
+timestamp=[2023-12-06 21:40:09], mode=BUILD, duration=0:00:04.515, duration_ms=4515, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-06 21:53:56], mode=BUILD, duration=0:00:00.454, duration_ms=454, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-06 21:53:57], mode=BUILD, duration=0:00:00.375, duration_ms=375, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-06 21:54:03], mode=PLATFORM_GENERATION, duration=0:00:05.953, duration_ms=5953, data={name=zoom_top}
+timestamp=[2023-12-06 21:54:19], mode=PLATFORM_GENERATION, duration=0:00:15.927, duration_ms=15927, data={name=zoom_top}
+timestamp=[2023-12-06 21:54:24], mode=BUILD, duration=0:00:04.180, duration_ms=4180, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-06 22:17:27], mode=BUILD, duration=0:00:00.366, duration_ms=366, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-06 22:17:27], mode=BUILD, duration=0:00:00.346, duration_ms=346, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-06 22:17:33], mode=PLATFORM_GENERATION, duration=0:00:05.495, duration_ms=5495, data={name=zoom_top}
+timestamp=[2023-12-06 22:19:59], mode=PLATFORM_GENERATION, duration=0:02:25.831, duration_ms=145831, data={name=zoom_top}
+timestamp=[2023-12-06 22:20:36], mode=WORKBENCH_START, duration=0:00:11.706, duration_ms=11706, data={}
+timestamp=[2023-12-06 22:20:37], mode=WORKBENCH_UI_INIT, duration=0:00:01.028, duration_ms=1028, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_zoom,mb_zoom_system,zoom_top}
+timestamp=[2023-12-06 22:20:38], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.083, duration_ms=83, data={}
+timestamp=[2023-12-06 22:20:46], mode=BUILD, duration=0:00:00.514, duration_ms=514, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-06 22:20:46], mode=BUILD, duration=0:00:00.348, duration_ms=348, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-06 22:20:52], mode=PLATFORM_GENERATION, duration=0:00:06.401, duration_ms=6401, data={name=zoom_top}
+timestamp=[2023-12-06 22:21:04], mode=PLATFORM_GENERATION, duration=0:00:10.421, duration_ms=10421, data={name=zoom_top}
+timestamp=[2023-12-06 22:21:08], mode=BUILD, duration=0:00:03.679, duration_ms=3679, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-06 22:39:11], mode=BUILD, duration=0:00:00.435, duration_ms=435, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-06 22:39:12], mode=BUILD, duration=0:00:00.395, duration_ms=395, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-06 22:39:17], mode=PLATFORM_GENERATION, duration=0:00:05.870, duration_ms=5870, data={name=zoom_top}
+timestamp=[2023-12-06 22:39:33], mode=PLATFORM_GENERATION, duration=0:00:15.171, duration_ms=15171, data={name=zoom_top}
+timestamp=[2023-12-06 22:39:37], mode=BUILD, duration=0:00:03.879, duration_ms=3879, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-06 22:50:28], mode=BUILD, duration=0:00:00.848, duration_ms=848, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-06 22:50:29], mode=BUILD, duration=0:00:00.230, duration_ms=230, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-06 22:50:39], mode=PLATFORM_GENERATION, duration=0:00:10.331, duration_ms=10331, data={name=zoom_top}
+timestamp=[2023-12-06 22:50:51], mode=PLATFORM_GENERATION, duration=0:00:11.463, duration_ms=11463, data={name=zoom_top}
+timestamp=[2023-12-06 22:50:54], mode=BUILD, duration=0:00:03.327, duration_ms=3327, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-06 23:06:16], mode=BUILD, duration=0:00:00.289, duration_ms=289, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-06 23:06:16], mode=BUILD, duration=0:00:00.214, duration_ms=214, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-06 23:06:20], mode=PLATFORM_GENERATION, duration=0:00:03.553, duration_ms=3553, data={name=zoom_top}
+timestamp=[2023-12-06 23:06:32], mode=PLATFORM_GENERATION, duration=0:00:11.925, duration_ms=11925, data={name=zoom_top}
+timestamp=[2023-12-06 23:06:35], mode=BUILD, duration=0:00:02.755, duration_ms=2755, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-06 23:27:08], mode=BUILD, duration=0:00:00.276, duration_ms=276, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-06 23:27:08], mode=BUILD, duration=0:00:00.199, duration_ms=199, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-06 23:27:12], mode=PLATFORM_GENERATION, duration=0:00:03.684, duration_ms=3684, data={name=zoom_top}
+timestamp=[2023-12-06 23:27:22], mode=PLATFORM_GENERATION, duration=0:00:10.584, duration_ms=10584, data={name=zoom_top}
+timestamp=[2023-12-06 23:27:25], mode=BUILD, duration=0:00:02.445, duration_ms=2445, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-06 23:43:01], mode=BUILD, duration=0:00:00.288, duration_ms=288, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-06 23:43:01], mode=BUILD, duration=0:00:00.209, duration_ms=209, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-06 23:43:05], mode=PLATFORM_GENERATION, duration=0:00:03.833, duration_ms=3833, data={name=zoom_top}
+timestamp=[2023-12-06 23:43:17], mode=PLATFORM_GENERATION, duration=0:00:11.634, duration_ms=11634, data={name=zoom_top}
+timestamp=[2023-12-06 23:43:20], mode=BUILD, duration=0:00:02.844, duration_ms=2844, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-06 23:53:20], mode=BUILD, duration=0:00:00.259, duration_ms=259, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-06 23:53:20], mode=BUILD, duration=0:00:00.199, duration_ms=199, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-06 23:53:24], mode=PLATFORM_GENERATION, duration=0:00:03.733, duration_ms=3733, data={name=zoom_top}
+timestamp=[2023-12-06 23:53:34], mode=PLATFORM_GENERATION, duration=0:00:09.738, duration_ms=9738, data={name=zoom_top}
+timestamp=[2023-12-06 23:53:36], mode=BUILD, duration=0:00:02.524, duration_ms=2524, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 00:24:37], mode=BUILD, duration=0:00:00.281, duration_ms=281, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 00:24:37], mode=BUILD, duration=0:00:00.221, duration_ms=221, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 00:24:40], mode=PLATFORM_GENERATION, duration=0:00:03.530, duration_ms=3530, data={name=zoom_top}
+timestamp=[2023-12-07 00:24:51], mode=PLATFORM_GENERATION, duration=0:00:09.969, duration_ms=9969, data={name=zoom_top}
+timestamp=[2023-12-07 00:24:53], mode=BUILD, duration=0:00:02.473, duration_ms=2473, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 00:38:06], mode=BUILD, duration=0:00:00.330, duration_ms=330, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 00:38:06], mode=BUILD, duration=0:00:00.227, duration_ms=227, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 00:38:10], mode=PLATFORM_GENERATION, duration=0:00:04.048, duration_ms=4048, data={name=zoom_top}
+timestamp=[2023-12-07 00:38:22], mode=PLATFORM_GENERATION, duration=0:00:12.155, duration_ms=12155, data={name=zoom_top}
+timestamp=[2023-12-07 00:38:25], mode=BUILD, duration=0:00:02.472, duration_ms=2472, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 14:46:52], mode=WORKBENCH_START, duration=0:00:12.198, duration_ms=12198, data={}
+timestamp=[2023-12-07 14:46:53], mode=WORKBENCH_UI_INIT, duration=0:00:00.921, duration_ms=921, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_zoom,mb_zoom_system,zoom_top}
+timestamp=[2023-12-07 14:46:54], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.137, duration_ms=137, data={}
+timestamp=[2023-12-07 15:03:16], mode=BUILD, duration=0:00:01.062, duration_ms=1062, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 15:03:17], mode=BUILD, duration=0:00:00.232, duration_ms=232, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 15:03:22], mode=PLATFORM_GENERATION, duration=0:00:05.046, duration_ms=5046, data={name=zoom_top}
+timestamp=[2023-12-07 15:03:35], mode=PLATFORM_GENERATION, duration=0:00:12.297, duration_ms=12297, data={name=zoom_top}
+timestamp=[2023-12-07 15:03:39], mode=BUILD, duration=0:00:03.684, duration_ms=3684, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 15:13:45], mode=BUILD, duration=0:00:00.304, duration_ms=304, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 15:13:45], mode=BUILD, duration=0:00:00.215, duration_ms=215, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 15:13:49], mode=PLATFORM_GENERATION, duration=0:00:04.122, duration_ms=4122, data={name=zoom_top}
+timestamp=[2023-12-07 15:13:59], mode=PLATFORM_GENERATION, duration=0:00:09.923, duration_ms=9923, data={name=zoom_top}
+timestamp=[2023-12-07 15:14:03], mode=BUILD, duration=0:00:02.849, duration_ms=2849, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 15:39:16], mode=BUILD, duration=0:00:00.292, duration_ms=292, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 15:39:16], mode=BUILD, duration=0:00:00.206, duration_ms=206, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 15:39:20], mode=PLATFORM_GENERATION, duration=0:00:04.164, duration_ms=4164, data={name=zoom_top}
+timestamp=[2023-12-07 15:39:31], mode=PLATFORM_GENERATION, duration=0:00:10.368, duration_ms=10368, data={name=zoom_top}
+timestamp=[2023-12-07 15:39:34], mode=BUILD, duration=0:00:03.119, duration_ms=3119, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 16:01:19], mode=BUILD, duration=0:00:00.310, duration_ms=310, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 16:01:20], mode=BUILD, duration=0:00:00.283, duration_ms=283, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 16:01:24], mode=PLATFORM_GENERATION, duration=0:00:04.412, duration_ms=4412, data={name=zoom_top}
+timestamp=[2023-12-07 16:01:38], mode=PLATFORM_GENERATION, duration=0:00:13.804, duration_ms=13804, data={name=zoom_top}
+timestamp=[2023-12-07 16:01:41], mode=BUILD, duration=0:00:02.712, duration_ms=2712, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 16:18:00], mode=BUILD, duration=0:00:00.289, duration_ms=289, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 16:18:00], mode=BUILD, duration=0:00:00.214, duration_ms=214, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 16:18:04], mode=PLATFORM_GENERATION, duration=0:00:03.983, duration_ms=3983, data={name=zoom_top}
+timestamp=[2023-12-07 16:18:14], mode=PLATFORM_GENERATION, duration=0:00:10.251, duration_ms=10251, data={name=zoom_top}
+timestamp=[2023-12-07 16:18:18], mode=BUILD, duration=0:00:02.779, duration_ms=2779, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 16:36:40], mode=BUILD, duration=0:00:00.283, duration_ms=283, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 16:36:40], mode=BUILD, duration=0:00:00.213, duration_ms=213, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 16:36:44], mode=PLATFORM_GENERATION, duration=0:00:03.814, duration_ms=3814, data={name=zoom_top}
+timestamp=[2023-12-07 16:36:54], mode=PLATFORM_GENERATION, duration=0:00:10.003, duration_ms=10003, data={name=zoom_top}
+timestamp=[2023-12-07 16:36:58], mode=BUILD, duration=0:00:02.734, duration_ms=2734, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 16:46:35], mode=BUILD, duration=0:00:00.296, duration_ms=296, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 16:46:36], mode=BUILD, duration=0:00:00.216, duration_ms=216, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 16:46:39], mode=PLATFORM_GENERATION, duration=0:00:03.735, duration_ms=3735, data={name=zoom_top}
+timestamp=[2023-12-07 16:46:50], mode=PLATFORM_GENERATION, duration=0:00:10.045, duration_ms=10045, data={name=zoom_top}
+timestamp=[2023-12-07 16:46:53], mode=BUILD, duration=0:00:02.637, duration_ms=2637, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 17:06:08], mode=BUILD, duration=0:00:00.337, duration_ms=337, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 17:06:08], mode=BUILD, duration=0:00:00.237, duration_ms=237, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 17:06:12], mode=PLATFORM_GENERATION, duration=0:00:04.224, duration_ms=4224, data={name=zoom_top}
+timestamp=[2023-12-07 17:06:26], mode=PLATFORM_GENERATION, duration=0:00:13.895, duration_ms=13895, data={name=zoom_top}
+timestamp=[2023-12-07 17:06:30], mode=BUILD, duration=0:00:03.228, duration_ms=3228, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 17:22:47], mode=BUILD, duration=0:00:00.301, duration_ms=301, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 17:22:47], mode=BUILD, duration=0:00:00.233, duration_ms=233, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 17:22:52], mode=PLATFORM_GENERATION, duration=0:00:04.654, duration_ms=4654, data={name=zoom_top}
+timestamp=[2023-12-07 17:23:05], mode=PLATFORM_GENERATION, duration=0:00:13.362, duration_ms=13362, data={name=zoom_top}
+timestamp=[2023-12-07 17:23:09], mode=BUILD, duration=0:00:02.808, duration_ms=2808, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 17:42:10], mode=BUILD, duration=0:00:00.312, duration_ms=312, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 17:42:10], mode=BUILD, duration=0:00:00.248, duration_ms=248, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 17:42:15], mode=PLATFORM_GENERATION, duration=0:00:04.839, duration_ms=4839, data={name=zoom_top}
+timestamp=[2023-12-07 17:42:26], mode=PLATFORM_GENERATION, duration=0:00:10.735, duration_ms=10735, data={name=zoom_top}
+timestamp=[2023-12-07 17:42:29], mode=BUILD, duration=0:00:02.647, duration_ms=2647, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 17:54:36], mode=BUILD, duration=0:00:00.340, duration_ms=340, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 17:54:36], mode=BUILD, duration=0:00:00.238, duration_ms=238, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 17:54:40], mode=PLATFORM_GENERATION, duration=0:00:03.809, duration_ms=3809, data={name=zoom_top}
+timestamp=[2023-12-07 17:54:51], mode=PLATFORM_GENERATION, duration=0:00:10.751, duration_ms=10751, data={name=zoom_top}
+timestamp=[2023-12-07 17:54:54], mode=BUILD, duration=0:00:02.571, duration_ms=2571, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 18:13:44], mode=BUILD, duration=0:00:00.334, duration_ms=334, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 18:13:44], mode=BUILD, duration=0:00:00.213, duration_ms=213, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 18:13:48], mode=PLATFORM_GENERATION, duration=0:00:04.221, duration_ms=4221, data={name=zoom_top}
+timestamp=[2023-12-07 18:13:59], mode=PLATFORM_GENERATION, duration=0:00:10.004, duration_ms=10004, data={name=zoom_top}
+timestamp=[2023-12-07 18:14:02], mode=BUILD, duration=0:00:02.822, duration_ms=2822, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 18:29:23], mode=BUILD, duration=0:00:00.270, duration_ms=270, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 18:29:23], mode=BUILD, duration=0:00:00.227, duration_ms=227, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 18:29:27], mode=PLATFORM_GENERATION, duration=0:00:04.204, duration_ms=4204, data={name=zoom_top}
+timestamp=[2023-12-07 18:29:38], mode=PLATFORM_GENERATION, duration=0:00:10.454, duration_ms=10454, data={name=zoom_top}
+timestamp=[2023-12-07 18:29:41], mode=BUILD, duration=0:00:02.383, duration_ms=2383, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 18:40:24], mode=BUILD, duration=0:00:00.357, duration_ms=357, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 18:40:24], mode=BUILD, duration=0:00:00.231, duration_ms=231, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 18:40:28], mode=PLATFORM_GENERATION, duration=0:00:03.501, duration_ms=3501, data={name=zoom_top}
+timestamp=[2023-12-07 18:40:39], mode=PLATFORM_GENERATION, duration=0:00:10.918, duration_ms=10918, data={name=zoom_top}
+timestamp=[2023-12-07 18:40:42], mode=BUILD, duration=0:00:02.520, duration_ms=2520, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 19:31:21], mode=BUILD, duration=0:00:00.306, duration_ms=306, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 19:31:21], mode=BUILD, duration=0:00:00.223, duration_ms=223, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 19:31:25], mode=PLATFORM_GENERATION, duration=0:00:03.983, duration_ms=3983, data={name=zoom_top}
+timestamp=[2023-12-07 19:31:33], mode=PLATFORM_GENERATION, duration=0:00:07.396, duration_ms=7396, data={name=zoom_top}
+timestamp=[2023-12-07 19:31:36], mode=BUILD, duration=0:00:02.746, duration_ms=2746, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 19:34:12], mode=BUILD, duration=0:00:00.284, duration_ms=284, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 19:34:12], mode=BUILD, duration=0:00:00.207, duration_ms=207, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 19:34:17], mode=PLATFORM_GENERATION, duration=0:00:04.300, duration_ms=4300, data={name=zoom_top}
+timestamp=[2023-12-07 19:34:28], mode=PLATFORM_GENERATION, duration=0:00:11.315, duration_ms=11315, data={name=zoom_top}
+timestamp=[2023-12-07 19:34:31], mode=BUILD, duration=0:00:02.685, duration_ms=2685, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 19:58:29], mode=BUILD, duration=0:00:00.879, duration_ms=879, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 19:58:29], mode=BUILD, duration=0:00:00.244, duration_ms=244, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 19:58:33], mode=PLATFORM_GENERATION, duration=0:00:04.364, duration_ms=4364, data={name=zoom_top}
+timestamp=[2023-12-07 19:58:46], mode=PLATFORM_GENERATION, duration=0:00:12.885, duration_ms=12885, data={name=zoom_top}
+timestamp=[2023-12-07 19:58:50], mode=BUILD, duration=0:00:03.066, duration_ms=3066, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 20:45:02], mode=BUILD, duration=0:00:00.282, duration_ms=282, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 20:45:02], mode=BUILD, duration=0:00:00.209, duration_ms=209, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 20:45:06], mode=PLATFORM_GENERATION, duration=0:00:03.899, duration_ms=3899, data={name=zoom_top}
+timestamp=[2023-12-07 20:45:19], mode=PLATFORM_GENERATION, duration=0:00:12.281, duration_ms=12281, data={name=zoom_top}
+timestamp=[2023-12-07 20:45:22], mode=BUILD, duration=0:00:02.654, duration_ms=2654, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 21:12:50], mode=BUILD, duration=0:00:00.315, duration_ms=315, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 21:12:50], mode=BUILD, duration=0:00:00.240, duration_ms=240, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 21:12:54], mode=PLATFORM_GENERATION, duration=0:00:04.289, duration_ms=4289, data={name=zoom_top}
+timestamp=[2023-12-07 21:13:06], mode=PLATFORM_GENERATION, duration=0:00:11.603, duration_ms=11603, data={name=zoom_top}
+timestamp=[2023-12-07 21:13:09], mode=BUILD, duration=0:00:02.829, duration_ms=2829, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 21:58:36], mode=BUILD, duration=0:00:00.772, duration_ms=772, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 21:58:36], mode=BUILD, duration=0:00:00.229, duration_ms=229, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 21:58:40], mode=PLATFORM_GENERATION, duration=0:00:04.418, duration_ms=4418, data={name=zoom_top}
+timestamp=[2023-12-07 21:58:54], mode=PLATFORM_GENERATION, duration=0:00:13.584, duration_ms=13584, data={name=zoom_top}
+timestamp=[2023-12-07 21:58:58], mode=BUILD, duration=0:00:03.015, duration_ms=3015, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 22:42:39], mode=BUILD, duration=0:00:00.733, duration_ms=733, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 22:42:39], mode=BUILD, duration=0:00:00.245, duration_ms=245, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 22:42:44], mode=PLATFORM_GENERATION, duration=0:00:04.517, duration_ms=4517, data={name=zoom_top}
+timestamp=[2023-12-07 22:42:58], mode=PLATFORM_GENERATION, duration=0:00:14.186, duration_ms=14186, data={name=zoom_top}
+timestamp=[2023-12-07 22:43:01], mode=BUILD, duration=0:00:02.700, duration_ms=2700, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-07 23:25:44], mode=BUILD, duration=0:00:01.234, duration_ms=1234, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 23:25:45], mode=BUILD, duration=0:00:00.217, duration_ms=217, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-07 23:25:56], mode=PLATFORM_GENERATION, duration=0:00:11.021, duration_ms=11021, data={name=zoom_top}
+timestamp=[2023-12-07 23:26:11], mode=PLATFORM_GENERATION, duration=0:00:14.819, duration_ms=14819, data={name=zoom_top}
+timestamp=[2023-12-07 23:26:16], mode=BUILD, duration=0:00:04.858, duration_ms=4858, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-08 00:15:22], mode=BUILD, duration=0:00:00.349, duration_ms=349, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-08 00:15:23], mode=BUILD, duration=0:00:00.256, duration_ms=256, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-08 00:15:27], mode=PLATFORM_GENERATION, duration=0:00:04.263, duration_ms=4263, data={name=zoom_top}
+timestamp=[2023-12-08 00:15:40], mode=PLATFORM_GENERATION, duration=0:00:13.410, duration_ms=13410, data={name=zoom_top}
+timestamp=[2023-12-08 00:15:44], mode=BUILD, duration=0:00:02.873, duration_ms=2873, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-08 00:28:34], mode=BUILD, duration=0:00:00.307, duration_ms=307, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-08 00:28:34], mode=BUILD, duration=0:00:00.314, duration_ms=314, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-08 00:28:38], mode=PLATFORM_GENERATION, duration=0:00:04.486, duration_ms=4486, data={name=zoom_top}
+timestamp=[2023-12-08 00:28:51], mode=PLATFORM_GENERATION, duration=0:00:12.829, duration_ms=12829, data={name=zoom_top}
+timestamp=[2023-12-08 00:28:54], mode=BUILD, duration=0:00:02.484, duration_ms=2484, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-08 00:41:55], mode=BUILD, duration=0:00:00.308, duration_ms=308, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-08 00:41:56], mode=BUILD, duration=0:00:00.209, duration_ms=209, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-08 00:42:00], mode=PLATFORM_GENERATION, duration=0:00:04.507, duration_ms=4507, data={name=zoom_top}
+timestamp=[2023-12-08 00:42:15], mode=PLATFORM_GENERATION, duration=0:00:14.620, duration_ms=14620, data={name=zoom_top}
+timestamp=[2023-12-08 00:42:18], mode=BUILD, duration=0:00:02.932, duration_ms=2932, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-08 00:44:41], mode=BUILD, duration=0:00:00.334, duration_ms=334, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-08 00:44:42], mode=BUILD, duration=0:00:00.226, duration_ms=226, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-08 00:44:46], mode=PLATFORM_GENERATION, duration=0:00:04.264, duration_ms=4264, data={name=zoom_top}
+timestamp=[2023-12-08 00:44:58], mode=PLATFORM_GENERATION, duration=0:00:12.308, duration_ms=12308, data={name=zoom_top}
+timestamp=[2023-12-08 00:45:01], mode=BUILD, duration=0:00:02.736, duration_ms=2736, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-08 00:58:19], mode=BUILD, duration=0:00:00.292, duration_ms=292, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-08 00:58:19], mode=BUILD, duration=0:00:00.235, duration_ms=235, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-08 00:58:24], mode=PLATFORM_GENERATION, duration=0:00:04.614, duration_ms=4614, data={name=zoom_top}
+timestamp=[2023-12-08 00:58:37], mode=PLATFORM_GENERATION, duration=0:00:13.124, duration_ms=13124, data={name=zoom_top}
+timestamp=[2023-12-08 00:58:40], mode=BUILD, duration=0:00:02.719, duration_ms=2719, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-08 01:10:42], mode=BUILD, duration=0:00:00.323, duration_ms=323, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-08 01:10:43], mode=BUILD, duration=0:00:00.228, duration_ms=228, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-08 01:10:47], mode=PLATFORM_GENERATION, duration=0:00:04.300, duration_ms=4300, data={name=zoom_top}
+timestamp=[2023-12-08 01:11:00], mode=PLATFORM_GENERATION, duration=0:00:12.758, duration_ms=12758, data={name=zoom_top}
+timestamp=[2023-12-08 01:11:03], mode=BUILD, duration=0:00:02.688, duration_ms=2688, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-08 01:26:33], mode=BUILD, duration=0:00:00.538, duration_ms=538, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-08 01:26:33], mode=BUILD, duration=0:00:00.221, duration_ms=221, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-08 01:26:37], mode=PLATFORM_GENERATION, duration=0:00:03.607, duration_ms=3607, data={name=zoom_top}
+timestamp=[2023-12-08 01:26:47], mode=PLATFORM_GENERATION, duration=0:00:10.253, duration_ms=10253, data={name=zoom_top}
+timestamp=[2023-12-08 01:26:50], mode=BUILD, duration=0:00:02.279, duration_ms=2279, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-08 01:36:13], mode=BUILD, duration=0:00:00.340, duration_ms=340, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-08 01:36:14], mode=BUILD, duration=0:00:00.315, duration_ms=315, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-08 01:36:18], mode=PLATFORM_GENERATION, duration=0:00:04.536, duration_ms=4536, data={name=zoom_top}
+timestamp=[2023-12-08 01:36:34], mode=PLATFORM_GENERATION, duration=0:00:15.452, duration_ms=15452, data={name=zoom_top}
+timestamp=[2023-12-08 01:36:37], mode=BUILD, duration=0:00:02.241, duration_ms=2241, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-08 01:48:00], mode=BUILD, duration=0:00:00.310, duration_ms=310, data={name=mb_zoom, configuration=Debug, clean_build=true}
+timestamp=[2023-12-08 01:48:00], mode=BUILD, duration=0:00:00.369, duration_ms=369, data={name=mb_zoom_system, configuration=Debug, clean_build=true}
+timestamp=[2023-12-08 01:48:05], mode=PLATFORM_GENERATION, duration=0:00:04.991, duration_ms=4991, data={name=zoom_top}
+timestamp=[2023-12-08 01:48:19], mode=PLATFORM_GENERATION, duration=0:00:14.206, duration_ms=14206, data={name=zoom_top}
+timestamp=[2023-12-08 01:48:23], mode=BUILD, duration=0:00:02.596, duration_ms=2596, data={name=mb_zoom, configuration=Debug, clean_build=false}
+timestamp=[2023-12-13 13:28:55], mode=WORKBENCH_START, duration=0:00:11.204, duration_ms=11204, data={}
+timestamp=[2023-12-13 13:28:57], mode=WORKBENCH_UI_INIT, duration=0:00:01.472, duration_ms=1472, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_zoom,mb_zoom_system,zoom_top}
+timestamp=[2023-12-13 13:28:57], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.141, duration_ms=141, data={}
+timestamp=[2023-12-13 13:38:49], mode=WORKBENCH_START, duration=0:00:09.739, duration_ms=9739, data={}
+timestamp=[2023-12-13 13:38:50], mode=WORKBENCH_UI_INIT, duration=0:00:01.152, duration_ms=1152, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_zoom,mb_zoom_system,zoom_top}
+timestamp=[2023-12-13 13:38:51], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.061, duration_ms=61, data={}

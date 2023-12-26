@@ -1,0 +1,11 @@
+verilog xil_defaultlib --include "../../../../final_project.gen/sources_1/bd/mb_zoom/ipshared/7698" --include "../../../../final_project.gen/sources_1/bd/mb_zoom/ipshared/ec67/hdl" \
+"../../../bd/mb_zoom/ip/mb_zoom_lmb_bram_1/sim/mb_zoom_lmb_bram_1.v" \
+"../../../bd/mb_zoom/ip/mb_zoom_microblaze_0_xlconcat_0/sim/mb_zoom_microblaze_0_xlconcat_0.v" \
+"../../../bd/mb_zoom/ip/mb_zoom_clk_wiz_1_1/mb_zoom_clk_wiz_1_1_clk_wiz.v" \
+"../../../bd/mb_zoom/ip/mb_zoom_clk_wiz_1_1/mb_zoom_clk_wiz_1_1.v" \
+"../../../bd/mb_zoom/ip/mb_zoom_xbar_0/sim/mb_zoom_xbar_0.v" \
+"../../../bd/mb_zoom/sim/mb_zoom.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

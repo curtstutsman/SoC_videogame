@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../final_project.gen/sources_1/ip/explosion8_rom/sim/explosion8_rom.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

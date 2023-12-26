@@ -1,0 +1,2 @@
+numbers_rom.v,verilog,xil_defaultlib,../../../../final_project.gen/sources_1/ip/numbers_rom/sim/numbers_rom.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

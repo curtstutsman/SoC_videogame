@@ -1,0 +1,6 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/ec67/hdl/axi_infrastructure_v1_1_0.vh,1699578083,verilog,,,,,,,,,,,,
+C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/f0b4/hdl/axi_register_slice_v2_1_vl_rfs.v,1699578084,verilog,,,C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/ec67/hdl/axi_infrastructure_v1_1_0.vh,axi_register_slice_v2_1_27_auto_dest;axi_register_slice_v2_1_27_auto_slr;axi_register_slice_v2_1_27_auto_src;axi_register_slice_v2_1_27_axi_register_slice;axi_register_slice_v2_1_27_axic_reg_srl_fifo;axi_register_slice_v2_1_27_axic_register_slice;axi_register_slice_v2_1_27_dest_region_slr;axi_register_slice_v2_1_27_middle_region_slr;axi_register_slice_v2_1_27_multi_slr;axi_register_slice_v2_1_27_single_slr;axi_register_slice_v2_1_27_source_region_slr;axi_register_slice_v2_1_27_srl_rtl;axi_register_slice_v2_1_27_tdm_sample;axi_register_slice_v2_1_27_test_master;axi_register_slice_v2_1_27_test_slave,,uvm,../../../../final_project.gen/sources_1/bd/mb_zoom/ipshared/7698;../../../../final_project.gen/sources_1/bd/mb_zoom/ipshared/ec67/hdl;../../../../final_project.gen/sources_1/ip/clk_wiz_0,,,,,

@@ -1,0 +1,495 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/ipstatic/simulation/blk_mem_gen_v8_4.v" into library blk_mem_gen_v8_4_5
+INFO: [VRFC 10-311] analyzing module STATE_LOGIC_v8_4
+INFO: [VRFC 10-311] analyzing module beh_vlog_muxf7_v8_4
+INFO: [VRFC 10-311] analyzing module beh_vlog_ff_clr_v8_4
+INFO: [VRFC 10-311] analyzing module beh_vlog_ff_pre_v8_4
+INFO: [VRFC 10-311] analyzing module beh_vlog_ff_ce_clr_v8_4
+INFO: [VRFC 10-311] analyzing module write_netlist_v8_4
+INFO: [VRFC 10-311] analyzing module read_netlist_v8_4
+INFO: [VRFC 10-311] analyzing module blk_mem_axi_write_wrapper_beh_v8_4
+INFO: [VRFC 10-311] analyzing module blk_mem_axi_read_wrapper_beh_v8_4
+INFO: [VRFC 10-311] analyzing module blk_mem_axi_regs_fwd_v8_4
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_v8_4_5_output_stage
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_v8_4_5_softecc_output_reg_stage
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_v8_4_5_mem_module
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_v8_4_5
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/ip/car_rom_1/sim/car_rom.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module car_rom
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/ip/hdmi_tx_0/hdl/encode.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module encode
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/ip/hdmi_tx_0/hdl/serdes_10_to_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module serdes_10_to_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/ip/hdmi_tx_0/hdl/srldelay.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module srldelay
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/ip/hdmi_tx_0/hdl/hdmi_tx_v1_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hdmi_tx_v1_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/ip/hdmi_tx_0/sim/hdmi_tx_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hdmi_tx_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0_clk_wiz
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_lmb_bram_1/sim/mb_zoom_lmb_bram_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mb_zoom_lmb_bram_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/b752/hdl/generic_baseblocks_v2_1_vl_rfs.v" into library generic_baseblocks_v2_1_0
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_carry_and
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_carry_latch_and
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_carry_latch_or
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_carry_or
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_carry
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_command_fifo
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_comparator_mask_static
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_comparator_mask
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_comparator_sel_mask_static
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_comparator_sel_mask
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_comparator_sel_static
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_comparator_sel
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_comparator_static
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_comparator
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_mux_enc
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_mux
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_nto1_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/ec67/hdl/axi_infrastructure_v1_1_vl_rfs.v" into library axi_infrastructure_v1_1_0
+INFO: [VRFC 10-311] analyzing module axi_infrastructure_v1_1_0_axi2vector
+INFO: [VRFC 10-311] analyzing module axi_infrastructure_v1_1_0_axic_srl_fifo
+INFO: [VRFC 10-311] analyzing module axi_infrastructure_v1_1_0_vector2axi
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/f0b4/hdl/axi_register_slice_v2_1_vl_rfs.v" into library axi_register_slice_v2_1_27
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_test_master
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_test_slave
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_tdm_sample
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_auto_slr
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_auto_src
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_auto_dest
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_srl_rtl
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_axic_register_slice
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_multi_slr
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_middle_region_slr
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_source_region_slr
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_dest_region_slr
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_single_slr
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_axic_reg_srl_fifo
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_axi_register_slice
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/83df/simulation/fifo_generator_vlog_beh.v" into library fifo_generator_v13_2_7
+INFO: [VRFC 10-311] analyzing module fifo_generator_vlog_beh
+INFO: [VRFC 10-311] analyzing module fifo_generator_v13_2_7_CONV_VER
+INFO: [VRFC 10-311] analyzing module fifo_generator_v13_2_7_sync_stage
+INFO: [VRFC 10-311] analyzing module fifo_generator_v13_2_7_bhv_ver_as
+INFO: [VRFC 10-311] analyzing module fifo_generator_v13_2_7_beh_ver_ll_afifo
+INFO: [VRFC 10-311] analyzing module fifo_generator_v13_2_7_bhv_ver_ss
+INFO: [VRFC 10-311] analyzing module fifo_generator_v13_2_7_bhv_ver_preload0
+INFO: [VRFC 10-311] analyzing module fifo_generator_v13_2_7_axic_reg_slice
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/83df/hdl/fifo_generator_v13_2_rfs.v" into library fifo_generator_v13_2_7
+INFO: [VRFC 10-311] analyzing module fifo_generator_v13_2_7
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/3111/hdl/axi_data_fifo_v2_1_vl_rfs.v" into library axi_data_fifo_v2_1_26
+INFO: [VRFC 10-311] analyzing module axi_data_fifo_v2_1_26_axic_fifo
+INFO: [VRFC 10-311] analyzing module axi_data_fifo_v2_1_26_fifo_gen
+INFO: [VRFC 10-311] analyzing module axi_data_fifo_v2_1_26_axic_srl_fifo
+INFO: [VRFC 10-311] analyzing module axi_data_fifo_v2_1_26_axic_reg_srl_fifo
+INFO: [VRFC 10-311] analyzing module axi_data_fifo_v2_1_26_ndeep_srl
+INFO: [VRFC 10-311] analyzing module axi_data_fifo_v2_1_26_axi_data_fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/c40e/hdl/axi_crossbar_v2_1_vl_rfs.v" into library axi_crossbar_v2_1_28
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_addr_arbiter_sasd
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_addr_arbiter
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_addr_decoder
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_arbiter_resp
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_crossbar_sasd
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_crossbar
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_decerr_slave
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_si_transactor
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_splitter
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_wdata_mux
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_wdata_router
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_axi_crossbar
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_xbar_0/sim/mb_zoom_xbar_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mb_zoom_xbar_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/4b67/hdl/xlconcat_v2_1_vl_rfs.v" into library xlconcat_v2_1_4
+INFO: [VRFC 10-311] analyzing module xlconcat_v2_1_4_xlconcat
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_microblaze_0_xlconcat_0/sim/mb_zoom_microblaze_0_xlconcat_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mb_zoom_microblaze_0_xlconcat_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_clk_wiz_1_1/mb_zoom_clk_wiz_1_1_clk_wiz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mb_zoom_clk_wiz_1_1_clk_wiz
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_clk_wiz_1_1/mb_zoom_clk_wiz_1_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mb_zoom_clk_wiz_1_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/0bf5/simulation/dist_mem_gen_v8_0.v" into library dist_mem_gen_v8_0_13
+INFO: [VRFC 10-311] analyzing module dist_mem_gen_v8_0_13
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/sim/mb_zoom.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module m00_couplers_imp_PI8AEA
+INFO: [VRFC 10-311] analyzing module m01_couplers_imp_1P4HDR5
+INFO: [VRFC 10-311] analyzing module m02_couplers_imp_13WKGH1
+INFO: [VRFC 10-311] analyzing module m03_couplers_imp_2CKH0M
+INFO: [VRFC 10-311] analyzing module m04_couplers_imp_BCHKRX
+INFO: [VRFC 10-311] analyzing module m05_couplers_imp_1CMO75A
+INFO: [VRFC 10-311] analyzing module m06_couplers_imp_1Y5N99M
+INFO: [VRFC 10-311] analyzing module m07_couplers_imp_Y9KT0P
+INFO: [VRFC 10-311] analyzing module mb_zoom
+INFO: [VRFC 10-311] analyzing module mb_zoom_microblaze_0_axi_periph_0
+INFO: [VRFC 10-311] analyzing module microblaze_0_local_memory_imp_1X2JT36
+INFO: [VRFC 10-311] analyzing module s00_couplers_imp_1P9PQV2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.srcs/sources_1/imports/design_source/VGA_controller.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vga_controller
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.srcs/sources_1/imports/car/car_palette.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module car_palette
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.srcs/sources_1/new/zoom_top.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module zoom_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/1f7b/hdl/microblaze_v11_0_vh_rfs.vhd" into library microblaze_v11_0_10
+INFO: [VRFC 10-3107] analyzing entity 'xil_scan_reset_control'
+INFO: [VRFC 10-3107] analyzing entity 'MB_SRL16E'
+INFO: [VRFC 10-3107] analyzing entity 'MB_SRLC16E'
+INFO: [VRFC 10-3107] analyzing entity 'MB_LUT1'
+INFO: [VRFC 10-3107] analyzing entity 'MB_LUT2'
+INFO: [VRFC 10-3107] analyzing entity 'MB_LUT3'
+INFO: [VRFC 10-3107] analyzing entity 'MB_LUT4'
+INFO: [VRFC 10-3107] analyzing entity 'MB_LUT5'
+INFO: [VRFC 10-3107] analyzing entity 'MB_LUT6'
+INFO: [VRFC 10-3107] analyzing entity 'MB_LUT6_2'
+INFO: [VRFC 10-3107] analyzing entity 'MB_MUXCY'
+INFO: [VRFC 10-3107] analyzing entity 'MB_XORCY'
+INFO: [VRFC 10-3107] analyzing entity 'MB_AND2B1L'
+INFO: [VRFC 10-3107] analyzing entity 'MB_OR2L'
+INFO: [VRFC 10-3107] analyzing entity 'MB_MUXF7'
+INFO: [VRFC 10-3107] analyzing entity 'MB_MUXF8'
+INFO: [VRFC 10-3107] analyzing entity 'MB_MUXF9'
+INFO: [VRFC 10-3107] analyzing entity 'MB_RAM32M'
+INFO: [VRFC 10-3107] analyzing entity 'MB_RAM16X1D'
+INFO: [VRFC 10-3107] analyzing entity 'MB_RAM32X1D'
+INFO: [VRFC 10-3107] analyzing entity 'MB_MULT18X18S'
+INFO: [VRFC 10-3107] analyzing entity 'MB_FD'
+INFO: [VRFC 10-3107] analyzing entity 'MB_FDR'
+INFO: [VRFC 10-3107] analyzing entity 'MB_FDRE'
+INFO: [VRFC 10-3107] analyzing entity 'MB_FDE'
+INFO: [VRFC 10-3107] analyzing entity 'MB_FDSE'
+INFO: [VRFC 10-3107] analyzing entity 'MB_FDS'
+INFO: [VRFC 10-3107] analyzing entity 'MB_FDRSE'
+INFO: [VRFC 10-3107] analyzing entity 'MB_MULT_AND'
+INFO: [VRFC 10-3107] analyzing entity 'MB_RAMB36'
+INFO: [VRFC 10-3107] analyzing entity 'MB_MUXCY_XORCY'
+INFO: [VRFC 10-3107] analyzing entity 'MB_DSP48E1'
+INFO: [VRFC 10-3107] analyzing entity 'mb_sync_bit'
+INFO: [VRFC 10-3107] analyzing entity 'mb_sync_vec'
+INFO: [VRFC 10-3107] analyzing entity 'mb_sync_reset'
+INFO: [VRFC 10-3107] analyzing entity 'OneHot_Buffer'
+INFO: [VRFC 10-3107] analyzing entity 'two_piperun_fd'
+INFO: [VRFC 10-3107] analyzing entity 'mux_bus'
+INFO: [VRFC 10-3107] analyzing entity 'Parity_Recursive_LUT6'
+INFO: [VRFC 10-3107] analyzing entity 'Parity'
+INFO: [VRFC 10-3107] analyzing entity 'comparator'
+INFO: [VRFC 10-3107] analyzing entity 'comparator_bool'
+INFO: [VRFC 10-3107] analyzing entity 'carry_and'
+INFO: [VRFC 10-3107] analyzing entity 'carry_and_bs'
+INFO: [VRFC 10-3107] analyzing entity 'carry_and_bb'
+INFO: [VRFC 10-3107] analyzing entity 'carry_and_n_bb'
+INFO: [VRFC 10-3107] analyzing entity 'carry_latch_and_bb'
+INFO: [VRFC 10-3107] analyzing entity 'carry_latch_and_n_bb'
+INFO: [VRFC 10-3107] analyzing entity 'carry_or'
+INFO: [VRFC 10-3107] analyzing entity 'carry_or_bs'
+INFO: [VRFC 10-3107] analyzing entity 'carry_or_bb'
+INFO: [VRFC 10-3107] analyzing entity 'carry_or_n_bb'
+INFO: [VRFC 10-3107] analyzing entity 'carry_equal'
+INFO: [VRFC 10-3107] analyzing entity 'carry_compare'
+INFO: [VRFC 10-3107] analyzing entity 'carry_compare_bool'
+INFO: [VRFC 10-3107] analyzing entity 'carry_compare_mask'
+INFO: [VRFC 10-3107] analyzing entity 'carry_compare_mask_bool'
+INFO: [VRFC 10-3107] analyzing entity 'carry_compare_const'
+INFO: [VRFC 10-3107] analyzing entity 'carry_compare_const_bool'
+INFO: [VRFC 10-3107] analyzing entity 'Carry_Compare_GE'
+INFO: [VRFC 10-3107] analyzing entity 'find_first_bit'
+INFO: [VRFC 10-3107] analyzing entity 'mux4_8'
+INFO: [VRFC 10-3107] analyzing entity 'mux4'
+INFO: [VRFC 10-3107] analyzing entity 'vec_mux'
+INFO: [VRFC 10-3107] analyzing entity 'srl_fifo'
+INFO: [VRFC 10-3107] analyzing entity 'ALU_Bit'
+INFO: [VRFC 10-3107] analyzing entity 'ALU'
+INFO: [VRFC 10-3107] analyzing entity 'MSR_Reg_Bit'
+INFO: [VRFC 10-3107] analyzing entity 'MSR_Reg'
+INFO: [VRFC 10-3107] analyzing entity 'msr_reg_gti'
+INFO: [VRFC 10-3107] analyzing entity 'MSR_Reg_ff'
+INFO: [VRFC 10-3107] analyzing entity 'dsp_module'
+INFO: [VRFC 10-3107] analyzing entity 'mul_unit'
+INFO: [VRFC 10-3107] analyzing entity 'mul_unit_ff'
+INFO: [VRFC 10-3107] analyzing entity 'Div_unit'
+INFO: [VRFC 10-3107] analyzing entity 'Div_unit_gti'
+INFO: [VRFC 10-3107] analyzing entity 'Div_Unit_ff'
+INFO: [VRFC 10-3107] analyzing entity 'Operand_Select_Bit'
+INFO: [VRFC 10-3107] analyzing entity 'Operand_Select'
+INFO: [VRFC 10-3107] analyzing entity 'Operand_Select_gti'
+INFO: [VRFC 10-3107] analyzing entity 'Operand_Select_ff'
+INFO: [VRFC 10-3107] analyzing entity 'PC_Bit'
+INFO: [VRFC 10-3107] analyzing entity 'PC_Module'
+INFO: [VRFC 10-3107] analyzing entity 'PC_Module_gti'
+INFO: [VRFC 10-3107] analyzing entity 'PC_Module_ff'
+INFO: [VRFC 10-3107] analyzing entity 'PreFetch_Buffer'
+INFO: [VRFC 10-3107] analyzing entity 'PreFetch_Buffer_gti'
+INFO: [VRFC 10-3107] analyzing entity 'PreFetch_Buffer_ff'
+INFO: [VRFC 10-3107] analyzing entity 'Register_File_Bit'
+INFO: [VRFC 10-3107] analyzing entity 'Register_File'
+INFO: [VRFC 10-3107] analyzing entity 'Register_File_gti'
+INFO: [VRFC 10-3107] analyzing entity 'count_leading_zeros'
+INFO: [VRFC 10-3107] analyzing entity 'Shift_Logic_Bit'
+INFO: [VRFC 10-3107] analyzing entity 'Shift_Logic_Module'
+INFO: [VRFC 10-3107] analyzing entity 'Shift_Logic_Module_gti'
+INFO: [VRFC 10-3107] analyzing entity 'Zero_Detect'
+INFO: [VRFC 10-3107] analyzing entity 'Zero_Detect_gti'
+INFO: [VRFC 10-3107] analyzing entity 'barrel_shift'
+INFO: [VRFC 10-3107] analyzing entity 'Barrel_Shifter_gti'
+INFO: [VRFC 10-3107] analyzing entity 'WB_Mux_Bit'
+INFO: [VRFC 10-3107] analyzing entity 'WB_Mux'
+INFO: [VRFC 10-3107] analyzing entity 'WB_Mux_ff'
+INFO: [VRFC 10-3107] analyzing entity 'Byte_Doublet_Handle'
+INFO: [VRFC 10-3107] analyzing entity 'Byte_Doublet_Handle_gti'
+INFO: [VRFC 10-3107] analyzing entity 'Byte_Doublet_Handle_ff'
+INFO: [VRFC 10-3107] analyzing entity 'Data_Flow_Logic'
+INFO: [VRFC 10-3107] analyzing entity 'Data_Flow_Logic_ff'
+INFO: [VRFC 10-3107] analyzing entity 'Streaming_AXI'
+INFO: [VRFC 10-3107] analyzing entity 'exception_registers'
+INFO: [VRFC 10-3107] analyzing entity 'exception_registers_gti'
+INFO: [VRFC 10-3107] analyzing entity 'exception_registers_ff'
+INFO: [VRFC 10-3107] analyzing entity 'FPU_ADDSUB'
+INFO: [VRFC 10-3107] analyzing entity 'FPU_DIV'
+INFO: [VRFC 10-3107] analyzing entity 'FPU_MUL'
+INFO: [VRFC 10-3107] analyzing entity 'fpu_conv'
+INFO: [VRFC 10-3107] analyzing entity 'fpu_sqrt'
+INFO: [VRFC 10-3107] analyzing entity 'FPU_DIV_FF'
+INFO: [VRFC 10-3107] analyzing entity 'FPU_MUL_ff'
+INFO: [VRFC 10-3107] analyzing entity 'fpu_conv_ff'
+INFO: [VRFC 10-3107] analyzing entity 'fpu_sqrt_ff'
+INFO: [VRFC 10-3107] analyzing entity 'Fpu'
+INFO: [VRFC 10-3107] analyzing entity 'Fpu_ff'
+INFO: [VRFC 10-3107] analyzing entity 'PVR'
+INFO: [VRFC 10-3107] analyzing entity 'Result_Mux_Bit'
+INFO: [VRFC 10-3107] analyzing entity 'Result_Mux'
+INFO: [VRFC 10-3107] analyzing entity 'stack_protection'
+INFO: [VRFC 10-3107] analyzing entity 'Data_Flow'
+INFO: [VRFC 10-3107] analyzing entity 'Data_Flow_gti'
+INFO: [VRFC 10-3107] analyzing entity 'Data_Flow_ff'
+INFO: [VRFC 10-3107] analyzing entity 'jump_logic'
+INFO: [VRFC 10-3107] analyzing entity 'Jump_Logic_ff'
+INFO: [VRFC 10-3107] analyzing entity 'Decode'
+INFO: [VRFC 10-3107] analyzing entity 'Decode_gti'
+INFO: [VRFC 10-3107] analyzing entity 'decode_conflict_ff'
+INFO: [VRFC 10-3107] analyzing entity 'decode_exception_flow_ff'
+INFO: [VRFC 10-3107] analyzing entity 'decode_instr_flow_ff'
+INFO: [VRFC 10-3107] analyzing entity 'decode_pipe_flow_ff'
+INFO: [VRFC 10-3107] analyzing entity 'Decode_ff'
+INFO: [VRFC 10-3107] analyzing entity 'address_hit'
+INFO: [VRFC 10-3107] analyzing entity 'address_data_hit'
+INFO: [VRFC 10-3107] analyzing entity 'Debug'
+INFO: [VRFC 10-3107] analyzing entity 'Debug_Profile'
+INFO: [VRFC 10-3107] analyzing entity 'debug_stat_counter'
+INFO: [VRFC 10-3107] analyzing entity 'Debug_Stat'
+INFO: [VRFC 10-3107] analyzing entity 'Debug_Trace'
+INFO: [VRFC 10-3107] analyzing entity 'DAXI_interface'
+INFO: [VRFC 10-3107] analyzing entity 'DAXI_interface_ff'
+INFO: [VRFC 10-3107] analyzing entity 'IAXI_Interface'
+INFO: [VRFC 10-3107] analyzing entity 'IAXI_Interface_ff'
+INFO: [VRFC 10-3107] analyzing entity 'DLMB_Interface_ff'
+INFO: [VRFC 10-3107] analyzing entity 'ILMB_Interface_ff'
+INFO: [VRFC 10-3107] analyzing entity 'RAM_Module'
+INFO: [VRFC 10-3107] analyzing entity 'LRU_Module'
+INFO: [VRFC 10-3107] analyzing entity 'victim_cache'
+INFO: [VRFC 10-3107] analyzing entity 'victim_cache_ff'
+INFO: [VRFC 10-3107] analyzing entity 'stream_cache'
+INFO: [VRFC 10-3107] analyzing entity 'stream_cache_ff'
+INFO: [VRFC 10-3107] analyzing entity 'Cache_Interface'
+INFO: [VRFC 10-3107] analyzing entity 'Cache_Interface_ff'
+INFO: [VRFC 10-3107] analyzing entity 'Icache'
+INFO: [VRFC 10-3107] analyzing entity 'DCache'
+INFO: [VRFC 10-3107] analyzing entity 'DCache_gti'
+INFO: [VRFC 10-3107] analyzing entity 'carry_hit'
+INFO: [VRFC 10-3107] analyzing entity 'Cache_ff'
+INFO: [VRFC 10-3107] analyzing entity 'cache_valid_bit_detect'
+INFO: [VRFC 10-3107] analyzing entity 'cachehit_detect'
+INFO: [VRFC 10-3107] analyzing entity 'DCache_wb'
+INFO: [VRFC 10-3107] analyzing entity 'instr_mux'
+INFO: [VRFC 10-3107] analyzing entity 'Instr_Mux_ff'
+INFO: [VRFC 10-3107] analyzing entity 'read_data_mux'
+INFO: [VRFC 10-3107] analyzing entity 'Read_Data_Mux_ff'
+INFO: [VRFC 10-3107] analyzing entity 'ISide_Logic_ff'
+INFO: [VRFC 10-3107] analyzing entity 'DSide_Logic_ff'
+INFO: [VRFC 10-3107] analyzing entity 'interrupt_mode_converter'
+INFO: [VRFC 10-3107] analyzing entity 'MMU_TLB'
+INFO: [VRFC 10-3107] analyzing entity 'MMU_UTLB_RAM'
+INFO: [VRFC 10-3107] analyzing entity 'MMU_UTLB'
+INFO: [VRFC 10-3107] analyzing entity 'MMU'
+INFO: [VRFC 10-3107] analyzing entity 'MMU_ff'
+INFO: [VRFC 10-3107] analyzing entity 'MicroBlaze_Area'
+INFO: [VRFC 10-3107] analyzing entity 'MicroBlaze_GTi'
+INFO: [VRFC 10-3107] analyzing entity 'MicroBlaze_FF'
+INFO: [VRFC 10-3107] analyzing entity 'MicroBlaze_Core'
+INFO: [VRFC 10-3107] analyzing entity 'MicroBlaze'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_microblaze_0_1/sim/mb_zoom_microblaze_0_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mb_zoom_microblaze_0_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/cd1d/hdl/lmb_v10_v3_0_vh_rfs.vhd" into library lmb_v10_v3_0_12
+INFO: [VRFC 10-3107] analyzing entity 'lmb_v10'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_dlmb_v10_1/sim/mb_zoom_dlmb_v10_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mb_zoom_dlmb_v10_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_ilmb_v10_1/sim/mb_zoom_ilmb_v10_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mb_zoom_ilmb_v10_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/a177/hdl/lmb_bram_if_cntlr_v4_0_vh_rfs.vhd" into library lmb_bram_if_cntlr_v4_0_21
+INFO: [VRFC 10-3107] analyzing entity 'MB_LUT6'
+INFO: [VRFC 10-3107] analyzing entity 'MB_MUXCY'
+INFO: [VRFC 10-3107] analyzing entity 'MB_XORCY'
+INFO: [VRFC 10-3107] analyzing entity 'MB_MUXF7'
+INFO: [VRFC 10-3107] analyzing entity 'MB_MUXF8'
+INFO: [VRFC 10-3107] analyzing entity 'MB_FDRE'
+INFO: [VRFC 10-3107] analyzing entity 'XOR18'
+INFO: [VRFC 10-3107] analyzing entity 'Parity'
+INFO: [VRFC 10-3107] analyzing entity 'ParityEnable'
+INFO: [VRFC 10-3107] analyzing entity 'checkbit_handler'
+INFO: [VRFC 10-3107] analyzing entity 'Correct_One_Bit'
+INFO: [VRFC 10-3107] analyzing entity 'Correct_One_Bit_64'
+INFO: [VRFC 10-3107] analyzing entity 'pselect_mask'
+INFO: [VRFC 10-3107] analyzing entity 'axi_interface'
+INFO: [VRFC 10-3107] analyzing entity 'lmb_mux'
+INFO: [VRFC 10-3107] analyzing entity 'lmb_bram_if_cntlr'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_dlmb_bram_if_cntlr_1/sim/mb_zoom_dlmb_bram_if_cntlr_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mb_zoom_dlmb_bram_if_cntlr_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_ilmb_bram_if_cntlr_1/sim/mb_zoom_ilmb_bram_if_cntlr_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mb_zoom_ilmb_bram_if_cntlr_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/83df/hdl/fifo_generator_v13_2_rfs.vhd" into library fifo_generator_v13_2_7
+INFO: [VRFC 10-3107] analyzing entity 'input_blk'
+INFO: [VRFC 10-3107] analyzing entity 'output_blk'
+INFO: [VRFC 10-3107] analyzing entity 'shft_wrapper'
+INFO: [VRFC 10-3107] analyzing entity 'shft_ram'
+INFO: [VRFC 10-3107] analyzing entity 'wr_pf_as'
+INFO: [VRFC 10-3107] analyzing entity 'wr_pf_ss'
+INFO: [VRFC 10-3107] analyzing entity 'rd_pe_as'
+INFO: [VRFC 10-3107] analyzing entity 'rd_pe_ss'
+INFO: [VRFC 10-3107] analyzing entity 'synchronizer_ff'
+INFO: [VRFC 10-3107] analyzing entity 'delay'
+INFO: [VRFC 10-3107] analyzing entity 'bin_cntr'
+INFO: [VRFC 10-3107] analyzing entity 'clk_x_pntrs_builtin'
+INFO: [VRFC 10-3107] analyzing entity 'logic_builtin'
+INFO: [VRFC 10-3107] analyzing entity 'builtin_prim'
+INFO: [VRFC 10-3107] analyzing entity 'builtin_extdepth'
+INFO: [VRFC 10-3107] analyzing entity 'builtin_top'
+INFO: [VRFC 10-3107] analyzing entity 'reset_builtin'
+INFO: [VRFC 10-3107] analyzing entity 'builtin_prim_v6'
+INFO: [VRFC 10-3107] analyzing entity 'builtin_extdepth_v6'
+INFO: [VRFC 10-3107] analyzing entity 'builtin_extdepth_low_latency'
+INFO: [VRFC 10-3107] analyzing entity 'builtin_top_v6'
+INFO: [VRFC 10-3107] analyzing entity 'fifo_generator_v13_2_7_builtin'
+INFO: [VRFC 10-3107] analyzing entity 'bram_sync_reg'
+INFO: [VRFC 10-3107] analyzing entity 'bram_fifo_rstlogic'
+INFO: [VRFC 10-3107] analyzing entity 'reset_blk_ramfifo'
+INFO: [VRFC 10-3107] analyzing entity 'axi_reg_slice'
+INFO: [VRFC 10-3107] analyzing entity 'fifo_generator_top'
+INFO: [VRFC 10-3107] analyzing entity 'fifo_generator_v13_2_7_synth'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/66ea/hdl/axi_lite_ipif_v3_0_vh_rfs.vhd" into library axi_lite_ipif_v3_0_4
+INFO: [VRFC 10-3107] analyzing entity 'pselect_f'
+INFO: [VRFC 10-3107] analyzing entity 'address_decoder'
+INFO: [VRFC 10-3107] analyzing entity 'slave_attachment'
+INFO: [VRFC 10-3107] analyzing entity 'axi_lite_ipif'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/802b/hdl/axi_intc_v4_1_vh_rfs.vhd" into library axi_intc_v4_1_17
+INFO: [VRFC 10-3107] analyzing entity 'double_synchronizer'
+INFO: [VRFC 10-3107] analyzing entity 'shared_ram_ivar'
+INFO: [VRFC 10-3107] analyzing entity 'pulse_synchronizer'
+INFO: [VRFC 10-3107] analyzing entity 'intc_core'
+INFO: [VRFC 10-3107] analyzing entity 'axi_intc'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_microblaze_0_axi_intc_0/sim/mb_zoom_microblaze_0_axi_intc_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mb_zoom_microblaze_0_axi_intc_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/b8f4/hdl/mdm_v3_2_vh_rfs.vhd" into library mdm_v3_2_23
+INFO: [VRFC 10-3107] analyzing entity 'xil_scan_reset_control'
+INFO: [VRFC 10-3107] analyzing entity 'MB_BSCANE2'
+INFO: [VRFC 10-3107] analyzing entity 'MB_BUFG'
+INFO: [VRFC 10-3107] analyzing entity 'MB_BUFGCE_1'
+INFO: [VRFC 10-3107] analyzing entity 'MB_BUFGCTRL'
+INFO: [VRFC 10-3107] analyzing entity 'MB_FDRE'
+INFO: [VRFC 10-3107] analyzing entity 'MB_PLLE2_BASE'
+INFO: [VRFC 10-3107] analyzing entity 'MB_FDC_1'
+INFO: [VRFC 10-3107] analyzing entity 'MB_FDRE_1'
+INFO: [VRFC 10-3107] analyzing entity 'MB_SRL16E'
+INFO: [VRFC 10-3107] analyzing entity 'MB_FDRSE'
+INFO: [VRFC 10-3107] analyzing entity 'MB_MUXCY_XORCY'
+INFO: [VRFC 10-3107] analyzing entity 'MB_MUXCY'
+INFO: [VRFC 10-3107] analyzing entity 'MB_XORCY'
+INFO: [VRFC 10-3107] analyzing entity 'MB_SRLC32E'
+INFO: [VRFC 10-3107] analyzing entity 'carry_and'
+INFO: [VRFC 10-3107] analyzing entity 'carry_or_vec'
+INFO: [VRFC 10-3107] analyzing entity 'carry_or'
+INFO: [VRFC 10-3107] analyzing entity 'select_bit'
+INFO: [VRFC 10-3107] analyzing entity 'MB_LUT1'
+INFO: [VRFC 10-3107] analyzing entity 'Arbiter'
+INFO: [VRFC 10-3107] analyzing entity 'SRL_FIFO'
+INFO: [VRFC 10-3107] analyzing entity 'bus_master'
+INFO: [VRFC 10-3107] analyzing entity 'JTAG_CONTROL'
+INFO: [VRFC 10-3107] analyzing entity 'MDM_Core'
+INFO: [VRFC 10-3107] analyzing entity 'MDM'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_mdm_1_1/sim/mb_zoom_mdm_1_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mb_zoom_mdm_1_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/ef1e/hdl/lib_cdc_v1_0_rfs.vhd" into library lib_cdc_v1_0_2
+INFO: [VRFC 10-3107] analyzing entity 'cdc_sync'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/8842/hdl/proc_sys_reset_v5_0_vh_rfs.vhd" into library proc_sys_reset_v5_0_13
+INFO: [VRFC 10-3107] analyzing entity 'upcnt_n'
+INFO: [VRFC 10-3107] analyzing entity 'sequence_psr'
+INFO: [VRFC 10-3107] analyzing entity 'lpf'
+INFO: [VRFC 10-3107] analyzing entity 'proc_sys_reset'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_rst_clk_wiz_1_100M_1/sim/mb_zoom_rst_clk_wiz_1_100M_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mb_zoom_rst_clk_wiz_1_100M_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/0513/hdl/lib_pkg_v1_0_rfs.vhd" into library lib_pkg_v1_0_2
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/51ce/hdl/lib_srl_fifo_v1_0_rfs.vhd" into library lib_srl_fifo_v1_0_2
+INFO: [VRFC 10-3107] analyzing entity 'cntr_incr_decr_addn_f'
+INFO: [VRFC 10-3107] analyzing entity 'dynshreg_f'
+INFO: [VRFC 10-3107] analyzing entity 'srl_fifo_rbu_f'
+INFO: [VRFC 10-3107] analyzing entity 'srl_fifo_f'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/67a1/hdl/axi_uartlite_v2_0_vh_rfs.vhd" into library axi_uartlite_v2_0_31
+INFO: [VRFC 10-3107] analyzing entity 'dynshreg_i_f'
+INFO: [VRFC 10-3107] analyzing entity 'uartlite_tx'
+INFO: [VRFC 10-3107] analyzing entity 'uartlite_rx'
+INFO: [VRFC 10-3107] analyzing entity 'baudrate'
+INFO: [VRFC 10-3107] analyzing entity 'uartlite_core'
+INFO: [VRFC 10-3107] analyzing entity 'axi_uartlite'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_axi_uartlite_0_0/sim/mb_zoom_axi_uartlite_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mb_zoom_axi_uartlite_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/a040/hdl/interrupt_control_v3_1_vh_rfs.vhd" into library interrupt_control_v3_1_4
+INFO: [VRFC 10-3107] analyzing entity 'interrupt_control'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/6219/hdl/axi_gpio_v2_0_vh_rfs.vhd" into library axi_gpio_v2_0_29
+INFO: [VRFC 10-3107] analyzing entity 'GPIO_Core'
+INFO: [VRFC 10-3107] analyzing entity 'axi_gpio'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_axi_gpio_0_0/sim/mb_zoom_axi_gpio_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mb_zoom_axi_gpio_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_axi_gpio_0_1/sim/mb_zoom_axi_gpio_0_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mb_zoom_axi_gpio_0_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_axi_gpio_0_2/sim/mb_zoom_axi_gpio_0_2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mb_zoom_axi_gpio_0_2'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/22b2/hdl/axi_timer_v2_0_vh_rfs.vhd" into library axi_timer_v2_0_29
+INFO: [VRFC 10-3107] analyzing entity 'counter_f'
+INFO: [VRFC 10-3107] analyzing entity 'mux_onehot_f'
+INFO: [VRFC 10-3107] analyzing entity 'timer_control'
+INFO: [VRFC 10-3107] analyzing entity 'count_module'
+INFO: [VRFC 10-3107] analyzing entity 'tc_core'
+INFO: [VRFC 10-3107] analyzing entity 'axi_timer'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_axi_timer_0_0/sim/mb_zoom_axi_timer_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mb_zoom_axi_timer_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/6c82/hdl/lib_fifo_v1_0_rfs.vhd" into library lib_fifo_v1_0_16
+INFO: [VRFC 10-3107] analyzing entity 'async_fifo_fg'
+INFO: [VRFC 10-3107] analyzing entity 'sync_fifo_fg'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/75b9/hdl/axi_quad_spi_v3_2_rfs.vhd" into library axi_quad_spi_v3_2_26
+INFO: [VRFC 10-3107] analyzing entity 'pselect_f'
+INFO: [VRFC 10-3107] analyzing entity 'counter_f'
+INFO: [VRFC 10-3107] analyzing entity 'soft_reset'
+INFO: [VRFC 10-3107] analyzing entity 'xip_cross_clk_sync'
+INFO: [VRFC 10-3107] analyzing entity 'reset_sync_module'
+INFO: [VRFC 10-3107] analyzing entity 'qspi_status_slave_sel_reg'
+INFO: [VRFC 10-3107] analyzing entity 'qspi_startup_block'
+INFO: [VRFC 10-3107] analyzing entity 'qspi_receive_transmit_reg'
+INFO: [VRFC 10-3107] analyzing entity 'qspi_occupancy_reg'
+INFO: [VRFC 10-3107] analyzing entity 'qspi_mode_control_logic'
+INFO: [VRFC 10-3107] analyzing entity 'qspi_mode_0_module'
+INFO: [VRFC 10-3107] analyzing entity 'qspi_look_up_logic'
+INFO: [VRFC 10-3107] analyzing entity 'qspi_fifo_ifmodule'
+INFO: [VRFC 10-3107] analyzing entity 'qspi_cntrl_reg'
+INFO: [VRFC 10-3107] analyzing entity 'qspi_address_decoder'
+INFO: [VRFC 10-3107] analyzing entity 'qspi_dual_quad_mode'
+INFO: [VRFC 10-3107] analyzing entity 'cross_clk_sync_fifo_1'
+INFO: [VRFC 10-3107] analyzing entity 'cross_clk_sync_fifo_0'
+INFO: [VRFC 10-3107] analyzing entity 'xip_status_reg'
+INFO: [VRFC 10-3107] analyzing entity 'xip_cntrl_reg'
+INFO: [VRFC 10-3107] analyzing entity 'qspi_core_interface'
+INFO: [VRFC 10-3107] analyzing entity 'axi_qspi_xip_if'
+INFO: [VRFC 10-3107] analyzing entity 'axi_qspi_enhanced_mode'
+INFO: [VRFC 10-3107] analyzing entity 'axi_quad_spi_top'
+INFO: [VRFC 10-3107] analyzing entity 'axi_quad_spi'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_axi_quad_spi_0_0/sim/mb_zoom_axi_quad_spi_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mb_zoom_axi_quad_spi_0_0'

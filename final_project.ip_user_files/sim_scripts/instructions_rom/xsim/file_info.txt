@@ -1,0 +1,2 @@
+instructions_rom.v,verilog,xil_defaultlib,../../../../final_project.gen/sources_1/ip/instructions_rom/sim/instructions_rom.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

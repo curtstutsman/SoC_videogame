@@ -1,0 +1,2 @@
+city_backdrop_rom.v,verilog,xil_defaultlib,../../../../final_project.gen/sources_1/ip/city_backdrop_rom/sim/city_backdrop_rom.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

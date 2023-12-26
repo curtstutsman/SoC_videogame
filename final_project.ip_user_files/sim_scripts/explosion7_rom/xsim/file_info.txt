@@ -1,0 +1,2 @@
+explosion7_rom.v,verilog,xil_defaultlib,../../../../final_project.gen/sources_1/ip/explosion7_rom/sim/explosion7_rom.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

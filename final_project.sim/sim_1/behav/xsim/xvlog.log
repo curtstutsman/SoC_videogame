@@ -1,0 +1,135 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/ipstatic/simulation/blk_mem_gen_v8_4.v" into library blk_mem_gen_v8_4_5
+INFO: [VRFC 10-311] analyzing module STATE_LOGIC_v8_4
+INFO: [VRFC 10-311] analyzing module beh_vlog_muxf7_v8_4
+INFO: [VRFC 10-311] analyzing module beh_vlog_ff_clr_v8_4
+INFO: [VRFC 10-311] analyzing module beh_vlog_ff_pre_v8_4
+INFO: [VRFC 10-311] analyzing module beh_vlog_ff_ce_clr_v8_4
+INFO: [VRFC 10-311] analyzing module write_netlist_v8_4
+INFO: [VRFC 10-311] analyzing module read_netlist_v8_4
+INFO: [VRFC 10-311] analyzing module blk_mem_axi_write_wrapper_beh_v8_4
+INFO: [VRFC 10-311] analyzing module blk_mem_axi_read_wrapper_beh_v8_4
+INFO: [VRFC 10-311] analyzing module blk_mem_axi_regs_fwd_v8_4
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_v8_4_5_output_stage
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_v8_4_5_softecc_output_reg_stage
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_v8_4_5_mem_module
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_v8_4_5
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/ip/car_rom_1/sim/car_rom.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module car_rom
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/ip/hdmi_tx_0/hdl/encode.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module encode
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/ip/hdmi_tx_0/hdl/serdes_10_to_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module serdes_10_to_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/ip/hdmi_tx_0/hdl/srldelay.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module srldelay
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/ip/hdmi_tx_0/hdl/hdmi_tx_v1_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hdmi_tx_v1_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/ip/hdmi_tx_0/sim/hdmi_tx_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hdmi_tx_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0_clk_wiz
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_lmb_bram_1/sim/mb_zoom_lmb_bram_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mb_zoom_lmb_bram_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/b752/hdl/generic_baseblocks_v2_1_vl_rfs.v" into library generic_baseblocks_v2_1_0
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_carry_and
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_carry_latch_and
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_carry_latch_or
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_carry_or
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_carry
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_command_fifo
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_comparator_mask_static
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_comparator_mask
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_comparator_sel_mask_static
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_comparator_sel_mask
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_comparator_sel_static
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_comparator_sel
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_comparator_static
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_comparator
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_mux_enc
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_mux
+INFO: [VRFC 10-311] analyzing module generic_baseblocks_v2_1_0_nto1_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/ec67/hdl/axi_infrastructure_v1_1_vl_rfs.v" into library axi_infrastructure_v1_1_0
+INFO: [VRFC 10-311] analyzing module axi_infrastructure_v1_1_0_axi2vector
+INFO: [VRFC 10-311] analyzing module axi_infrastructure_v1_1_0_axic_srl_fifo
+INFO: [VRFC 10-311] analyzing module axi_infrastructure_v1_1_0_vector2axi
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/f0b4/hdl/axi_register_slice_v2_1_vl_rfs.v" into library axi_register_slice_v2_1_27
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_test_master
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_test_slave
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_tdm_sample
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_auto_slr
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_auto_src
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_auto_dest
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_srl_rtl
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_axic_register_slice
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_multi_slr
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_middle_region_slr
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_source_region_slr
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_dest_region_slr
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_single_slr
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_axic_reg_srl_fifo
+INFO: [VRFC 10-311] analyzing module axi_register_slice_v2_1_27_axi_register_slice
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/83df/simulation/fifo_generator_vlog_beh.v" into library fifo_generator_v13_2_7
+INFO: [VRFC 10-311] analyzing module fifo_generator_vlog_beh
+INFO: [VRFC 10-311] analyzing module fifo_generator_v13_2_7_CONV_VER
+INFO: [VRFC 10-311] analyzing module fifo_generator_v13_2_7_sync_stage
+INFO: [VRFC 10-311] analyzing module fifo_generator_v13_2_7_bhv_ver_as
+INFO: [VRFC 10-311] analyzing module fifo_generator_v13_2_7_beh_ver_ll_afifo
+INFO: [VRFC 10-311] analyzing module fifo_generator_v13_2_7_bhv_ver_ss
+INFO: [VRFC 10-311] analyzing module fifo_generator_v13_2_7_bhv_ver_preload0
+INFO: [VRFC 10-311] analyzing module fifo_generator_v13_2_7_axic_reg_slice
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/83df/hdl/fifo_generator_v13_2_rfs.v" into library fifo_generator_v13_2_7
+INFO: [VRFC 10-311] analyzing module fifo_generator_v13_2_7
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/3111/hdl/axi_data_fifo_v2_1_vl_rfs.v" into library axi_data_fifo_v2_1_26
+INFO: [VRFC 10-311] analyzing module axi_data_fifo_v2_1_26_axic_fifo
+INFO: [VRFC 10-311] analyzing module axi_data_fifo_v2_1_26_fifo_gen
+INFO: [VRFC 10-311] analyzing module axi_data_fifo_v2_1_26_axic_srl_fifo
+INFO: [VRFC 10-311] analyzing module axi_data_fifo_v2_1_26_axic_reg_srl_fifo
+INFO: [VRFC 10-311] analyzing module axi_data_fifo_v2_1_26_ndeep_srl
+INFO: [VRFC 10-311] analyzing module axi_data_fifo_v2_1_26_axi_data_fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/c40e/hdl/axi_crossbar_v2_1_vl_rfs.v" into library axi_crossbar_v2_1_28
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_addr_arbiter_sasd
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_addr_arbiter
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_addr_decoder
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_arbiter_resp
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_crossbar_sasd
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_crossbar
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_decerr_slave
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_si_transactor
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_splitter
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_wdata_mux
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_wdata_router
+INFO: [VRFC 10-311] analyzing module axi_crossbar_v2_1_28_axi_crossbar
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_xbar_0/sim/mb_zoom_xbar_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mb_zoom_xbar_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/4b67/hdl/xlconcat_v2_1_vl_rfs.v" into library xlconcat_v2_1_4
+INFO: [VRFC 10-311] analyzing module xlconcat_v2_1_4_xlconcat
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_microblaze_0_xlconcat_0/sim/mb_zoom_microblaze_0_xlconcat_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mb_zoom_microblaze_0_xlconcat_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_clk_wiz_1_1/mb_zoom_clk_wiz_1_1_clk_wiz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mb_zoom_clk_wiz_1_1_clk_wiz
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/ip/mb_zoom_clk_wiz_1_1/mb_zoom_clk_wiz_1_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mb_zoom_clk_wiz_1_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.gen/sources_1/bd/mb_zoom/ipshared/0bf5/simulation/dist_mem_gen_v8_0.v" into library dist_mem_gen_v8_0_13
+INFO: [VRFC 10-311] analyzing module dist_mem_gen_v8_0_13
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.ip_user_files/bd/mb_zoom/sim/mb_zoom.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module m00_couplers_imp_PI8AEA
+INFO: [VRFC 10-311] analyzing module m01_couplers_imp_1P4HDR5
+INFO: [VRFC 10-311] analyzing module m02_couplers_imp_13WKGH1
+INFO: [VRFC 10-311] analyzing module m03_couplers_imp_2CKH0M
+INFO: [VRFC 10-311] analyzing module m04_couplers_imp_BCHKRX
+INFO: [VRFC 10-311] analyzing module m05_couplers_imp_1CMO75A
+INFO: [VRFC 10-311] analyzing module m06_couplers_imp_1Y5N99M
+INFO: [VRFC 10-311] analyzing module m07_couplers_imp_Y9KT0P
+INFO: [VRFC 10-311] analyzing module mb_zoom
+INFO: [VRFC 10-311] analyzing module mb_zoom_microblaze_0_axi_periph_0
+INFO: [VRFC 10-311] analyzing module microblaze_0_local_memory_imp_1X2JT36
+INFO: [VRFC 10-311] analyzing module s00_couplers_imp_1P9PQV2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.srcs/sources_1/imports/design_source/VGA_controller.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vga_controller
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.srcs/sources_1/imports/car/car_palette.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module car_palette
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.srcs/sources_1/new/zoom_top.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module zoom_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/stuts/PersonalCode/ece385/final_project/final_project.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

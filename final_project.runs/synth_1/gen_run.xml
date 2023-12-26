@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7s50csga324-1" LaunchTime="1702498264" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/zoom_top.dcp">
+  <File Type="PA-TCL" Name="zoom_top.tcl"/>
+  <File Type="RDS-PROPCONSTRS" Name="zoom_top_drc_synth.rpt"/>
+  <File Type="REPORTS-TCL" Name="zoom_top_reports.tcl"/>
+  <File Type="RDS-RDS" Name="zoom_top.vds"/>
+  <File Type="RDS-UTIL" Name="zoom_top_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="zoom_top_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="zoom_top.dcp"/>
+  <File Type="VDS-TIMINGSUMMARY" Name="zoom_top_timing_summary_synth.rpt"/>
+  <File Type="VDS-TIMING-PB" Name="zoom_top_timing_summary_synth.pb"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/ip/tree_rom_2/tree_rom.xci">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/bd/mb_zoom/mb_zoom.bd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/design_source/VGA_controller.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../Downloads/lab6_2_provided/lab6.2_provided/design_source/VGA_controller.sv"/>
+        <Attr Name="ImportTime" Val="1697503739"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/backdrop.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/barricade.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/barricade/barricade_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Image_to_COE/barricade/barricade_palette.sv"/>
+        <Attr Name="ImportTime" Val="1701753029"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/bgselect.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/blue_car.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Image_to_COE/blue_car/blue_car_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Image_to_COE/blue_car/blue_car_palette.sv"/>
+        <Attr Name="ImportTime" Val="1701748370"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/cactus/cactus_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Image_to_COE/cactus/cactus_palette.sv"/>
+        <Attr Name="ImportTime" Val="1702008666"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/car.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/car/car_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Image_to_COE/car/car_palette.sv"/>
+        <Attr Name="ImportTime" Val="1701744418"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/city_background/city_backdrop_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../385_shared/city_background/city_backdrop_palette.sv"/>
+        <Attr Name="ImportTime" Val="1700103588"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/cone.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/cone/cone_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Image_to_COE/cone/cone_palette.sv"/>
+        <Attr Name="ImportTime" Val="1701212553"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/backdrop/dessert/dessert_background_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../385_shared/hardware/object_mapper/backdrop/dessert/dessert_background_palette.sv"/>
+        <Attr Name="ImportTime" Val="1701996380"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/explosion/explosion.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../385_shared/hardware/object_mapper/explosion/explosion.sv"/>
+        <Attr Name="ImportTime" Val="1701754971"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/explosion/explosion10/explosion10_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../385_shared/hardware/object_mapper/explosion/explosion10/explosion10_palette.sv"/>
+        <Attr Name="ImportTime" Val="1701754971"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/explosion/explosion1/explosion1_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../385_shared/hardware/object_mapper/explosion/explosion1/explosion1_palette.sv"/>
+        <Attr Name="ImportTime" Val="1701754971"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/explosion/explosion2/explosion2_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../385_shared/hardware/object_mapper/explosion/explosion2/explosion2_palette.sv"/>
+        <Attr Name="ImportTime" Val="1701754971"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/explosion/explosion3/explosion3_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../385_shared/hardware/object_mapper/explosion/explosion3/explosion3_palette.sv"/>
+        <Attr Name="ImportTime" Val="1701754971"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/explosion/explosion4/explosion4_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../385_shared/hardware/object_mapper/explosion/explosion4/explosion4_palette.sv"/>
+        <Attr Name="ImportTime" Val="1701754971"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/explosion/explosion5/explosion5_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../385_shared/hardware/object_mapper/explosion/explosion5/explosion5_palette.sv"/>
+        <Attr Name="ImportTime" Val="1701754971"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/explosion/explosion6/explosion6_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../385_shared/hardware/object_mapper/explosion/explosion6/explosion6_palette.sv"/>
+        <Attr Name="ImportTime" Val="1701754971"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/explosion/explosion7/explosion7_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../385_shared/hardware/object_mapper/explosion/explosion7/explosion7_palette.sv"/>
+        <Attr Name="ImportTime" Val="1701754971"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/explosion/explosion8/explosion8_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../385_shared/hardware/object_mapper/explosion/explosion8/explosion8_palette.sv"/>
+        <Attr Name="ImportTime" Val="1701754971"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/explosion/explosion9/explosion9_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../385_shared/hardware/object_mapper/explosion/explosion9/explosion9_palette.sv"/>
+        <Attr Name="ImportTime" Val="1701754971"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/game_over.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/game_over/game_over_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Image_to_COE/game_over/game_over_palette.sv"/>
+        <Attr Name="ImportTime" Val="1701486772"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/hardware/game_state.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../385_shared/hardware/game_state.sv"/>
+        <Attr Name="ImportTime" Val="1701044685"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/game_text.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/green_car.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Image_to_COE/green_car/green_car_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Image_to_COE/green_car/green_car_palette.sv"/>
+        <Attr Name="ImportTime" Val="1701748389"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/instructions.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/main_menu.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/main_menu/main_menu_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Image_to_COE/main_menu/main_menu_palette.sv"/>
+        <Attr Name="ImportTime" Val="1701485148"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/object_mapper.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/obstacle_generator.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/obstacle_mover.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/point_tracker.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/puddle.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/puddle/puddle_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Image_to_COE/puddle/puddle_palette.sv"/>
+        <Attr Name="ImportTime" Val="1701745568"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/purple_car.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Image_to_COE/purple_car/purple_car_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Image_to_COE/purple_car/purple_car_palette.sv"/>
+        <Attr Name="ImportTime" Val="1701748414"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/satellite/satellite_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Image_to_COE/satellite/satellite_palette.sv"/>
+        <Attr Name="ImportTime" Val="1702004052"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/space_background/space_background_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Image_to_COE/space_background/space_background_palette.sv"/>
+        <Attr Name="ImportTime" Val="1702012173"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/streetside.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/timer.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/trashcan.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/trashcan/trashcan_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Image_to_COE/trashcan/trashcan_palette.sv"/>
+        <Attr Name="ImportTime" Val="1700618663"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/tree/tree_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Image_to_COE/tree/tree_palette.sv"/>
+        <Attr Name="ImportTime" Val="1701923226"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/yellow_car.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Image_to_COE/yellow_car/yellow_car_palette.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Image_to_COE/yellow_car/yellow_car_palette.sv"/>
+        <Attr Name="ImportTime" Val="1701748432"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/zoom_top.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/design_source/hex.sv">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../lab6.2/lab6.srcs/sources_1/imports/design_source/hex.sv"/>
+        <Attr Name="ImportTime" Val="1697503738"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Image_to_COE/car/car.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Image_to_COE/trashcan/trashcan.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Image_to_COE/puddle/puddle.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Image_to_COE/city_background/city_background.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Image_to_COE/cone/cone.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Image_to_COE/main_menu/main_menu.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Image_to_COE/game_over/game_over.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Image_to_COE/numbers/numbers.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Image_to_COE/score/score.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Image_to_COE/time/time.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Image_to_COE/instructions/instructions.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Image_to_COE/barricade/barricade.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Image_to_COE/blue_car/blue_car.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Image_to_COE/green_car/green_car.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Image_to_COE/purple_car/purple_car.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Image_to_COE/yellow_car/yellow_car.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Image_to_COE/tree/tree.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Image_to_COE/comet/comet.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Image_to_COE/cactus/cactus.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Image_to_COE/satellite/satellite.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Image_to_COE/space_background/space_background.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/bgselect/selectbg2.COE">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/bgselect/selectbg2.COE"/>
+        <Attr Name="ImportTime" Val="1702017184"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/object_mapper/explosion/explosion1/explosion1.COE">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/explosion/explosion1/explosion1.COE"/>
+        <Attr Name="ImportTime" Val="1701754971"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/object_mapper/explosion/explosion2/explosion2.COE">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/explosion/explosion2/explosion2.COE"/>
+        <Attr Name="ImportTime" Val="1701754971"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/object_mapper/explosion/explosion3/explosion3.COE">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/explosion/explosion3/explosion3.COE"/>
+        <Attr Name="ImportTime" Val="1701754971"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/object_mapper/explosion/explosion4/explosion4.COE">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/explosion/explosion4/explosion4.COE"/>
+        <Attr Name="ImportTime" Val="1701754971"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/object_mapper/explosion/explosion5/explosion5.COE">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/explosion/explosion5/explosion5.COE"/>
+        <Attr Name="ImportTime" Val="1701754971"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/object_mapper/explosion/explosion6/explosion6.COE">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/explosion/explosion6/explosion6.COE"/>
+        <Attr Name="ImportTime" Val="1701754971"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/object_mapper/explosion/explosion7/explosion7.COE">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/explosion/explosion7/explosion7.COE"/>
+        <Attr Name="ImportTime" Val="1701754971"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/object_mapper/explosion/explosion8/explosion8.COE">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/explosion/explosion8/explosion8.COE"/>
+        <Attr Name="ImportTime" Val="1701754971"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/object_mapper/explosion/explosion9/explosion9.COE">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/explosion/explosion9/explosion9.COE"/>
+        <Attr Name="ImportTime" Val="1701754971"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/object_mapper/explosion/explosion10/explosion10.COE">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/explosion/explosion10/explosion10.COE"/>
+        <Attr Name="ImportTime" Val="1701754971"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/object_mapper/backdrop/dessert/dessert_background.COE">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/backdrop/dessert/dessert_background.COE"/>
+        <Attr Name="ImportTime" Val="1701996380"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/backdrop/dessert/dessert_background.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/explosion/explosion1/explosion1.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/explosion/explosion2/explosion2.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/explosion/explosion3/explosion3.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/explosion/explosion4/explosion4.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/explosion/explosion5/explosion5.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/explosion/explosion6/explosion6.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/explosion/explosion7/explosion7.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/explosion/explosion8/explosion8.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/explosion/explosion9/explosion9.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/explosion/explosion10/explosion10.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../ECE385_finalproject_curtiss8_kmahler03/hardware/object_mapper/bgselect/selectbg2.COE">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="zoom_top"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/pin_assignment/mb_usb_hdmi_top.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../Downloads/lab6_2_provided/lab6.2_provided/pin_assignment/mb_usb_hdmi_top.xdc"/>
+        <Attr Name="ImportTime" Val="1697503739"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/zoom_top.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="UsedInSteps" Val="synth_1_copy_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2022"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+  <BlockFileSet Type="BlockSrcs" Name="cone_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="clk_wiz_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="hdmi_tx_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="city_backdrop_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="numbers_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="trashcan_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="puddle_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="instructions_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="main_menu_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="bgselect_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="game_over_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="score_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="time_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="car_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="barricade_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="blue_car_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="desert_background_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="green_car_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="purple_car_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="yellow_car_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="explosion1_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="explosion2_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="explosion3_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="explosion4_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="explosion5_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="explosion6_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="explosion7_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="explosion8_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="explosion9_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="explosion10_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="satellite_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="cactus_rom"/>
+  <BlockFileSet Type="BlockSrcs" Name="space_background_rom"/>
+</GenRun>

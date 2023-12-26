@@ -1,0 +1,2 @@
+time_rom.v,verilog,xil_defaultlib,../../../../final_project.gen/sources_1/ip/time_rom/sim/time_rom.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

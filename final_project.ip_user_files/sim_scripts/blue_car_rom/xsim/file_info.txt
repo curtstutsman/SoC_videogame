@@ -1,0 +1,2 @@
+blue_car_rom.v,verilog,xil_defaultlib,../../../../final_project.gen/sources_1/ip/blue_car_rom/sim/blue_car_rom.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="devices_info_Local" value="{&quot;cables&quot;:[{&quot;name&quot;:&quot;Urbanan 2VI1 887100000000A&quot;,&quot;indexContextMap&quot;:{&quot;2&quot;:&quot;jsn1-0362f093-0&quot;}}]}"/>
+	<item key="mb_zoom_system-bitFile" value="${project_loc:mb_zoom}/_ide/bitstream/zoom_top.bit"/>
+	<item key="mb_zoom_system-bmmFile" value="${project_loc:mb_zoom}/_ide/bitstream/zoom_top.mmi"/>
+	<item key="mb_zoom_system-target" value="Local"/>
+	<item key="mb_zoom_system-device" value="Auto Detect"/>
+	<item key="mb_zoom_system-partial_bit" value="false"/>
+	<item key="mb_zoom_system-skip_rev_check" value="false"/>
+	<item key="programfpga.sdxproject" value="mb_zoom_system"/>
+	<item key="mb_zoom_system-microblaze_0-initElf" value="bootloop"/>
+</section>
